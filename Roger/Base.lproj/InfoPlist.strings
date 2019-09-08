@@ -1,0 +1,8 @@
+/* (No Commment) */
+"CFBundleDisplayName" = "Roger";
+
+/* (No Commment) */
+"NSContactsUsageDescription" = "Roger needs access to your contacts. Your data will be encrypted and won't be stored on our servers.";
+
+/* (No Commment) */
+"NSLocationWhenInUseUsageDescription" = "Location is used to display previews of your city, time, and weather to friends.";

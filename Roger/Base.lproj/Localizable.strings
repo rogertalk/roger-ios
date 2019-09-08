@@ -1,0 +1,233 @@
+/* Bubble above share sheet after SMS cancelled */
+"%@ can listen with it." = "%@ can listen with it.";
+
+/* Alert text */
+"%@ has been copied to your clipboard." = "%@ has been copied to your clipboard.";
+
+/* Intro screen */
+"%@ is talking to you.
+Join the conversation." = "%@ is talking to you.
+Join the conversation.";
+
+/* Username hint */
+"A username lets you be reached via rogertalk.com/username" = "A username lets you be reached via rogertalk.com/username";
+
+/* Text on top of avatar with no photo in Settings */
+"ADD
+PHOTO" = "ADD
+PHOTO";
+
+/* Sheet action */
+"Add Email Address" = "Add Email Address";
+
+/* Sheet action */
+"Add Phone Number" = "Add Phone Number";
+
+/* Tooltip */
+"Allow microphone access" = "Allow microphone access";
+
+/* Alert title */
+"Already taken" = "Already taken";
+
+/* Username hint */
+"Anyone can reach you via rogertalk.com/%@" = "Anyone can reach you via rogertalk.com/%@";
+
+/* Sheet action */
+"Cancel" = "Cancel";
+
+/* Sheet action */
+"Choose Photo" = "Choose Photo";
+
+/* Network connectivity bar */
+"Connecting" = "Connecting";
+
+/* Alert text */
+"Could not start a conversation with %@." = "Could not start a conversation with %@.";
+
+/* Alert text */
+"Could not start a conversation." = "Could not start a conversation.";
+
+/* Alert text */
+"Could not start the group conversation." = "Could not start the group conversation.";
+
+/* Accessibility label, microphone */
+"Done" = "Done";
+
+/* Sheet action */
+"Edit Name" = "Edit Name";
+
+/* Alert title */
+"Enable Location" = "Enable Location";
+
+/* Alert title */
+"Enable Notifications" = "Enable Notifications";
+
+/* Alert title */
+"Error!" = "Error!";
+
+/* Feedback e-mail subject */
+"Hello" = "Hello";
+
+/* Browser title */
+"Help" = "Help";
+
+/* Sheet action */
+"Hide Conversation" = "Hide Conversation";
+
+/* Alert title */
+"Invalid username" = "Invalid username";
+
+/* Accessibility label; first value is time, second value is city */
+"It's %@ in %@" = "It's %1$@ in %2$@";
+
+/* Accessibility label; first value is time, second value is city, third value is temperature, fourth value is weather */
+"It's %@ in %@ where it's %d degrees and %@" = "It's %1$@ in %2$@ where it's %3$d degrees and %4$@";
+
+/* Accessibility hint, value is a duration (ex: 7 seconds) */
+"Listen, %@" = "Listen, %@";
+
+/* Accessibility label, microphone */
+"Microphone" = "Microphone";
+
+/* Buzz notification */
+"NOTIFICATION_BUZZ" = "🐝 %@ buzzed you";
+
+/* Buzz notification, group */
+"NOTIFICATION_BUZZ_GROUP" = "🐝 %1$@ buzzed %2$@";
+
+/* Reminder notification */
+"NOTIFICATION_TALKED_MINUTES_AGO" = "⏲ %@ talked a few minutes ago";
+
+/* Notification */
+"NOTIFICATION_TALKED_MINUTE_AGO" = "😅 %@ talked a minute ago";
+
+/* Notification, name talking to user */
+"NOTIFICATION_TALKING" = "😀 %@ is talking to you";
+
+/* Notification, name talking to group */
+"NOTIFICATION_TALKING_GROUP" = "😀 %1$@ is talking to %2$@";
+
+/* Notification */
+"NOTIFICATION_TALKING_SNOOZED" = "Snoozed: 😀 %1$@ is talking to %2$@";
+
+/* Notification */
+"NOTIFICATION_LISTENING_UNKNOWN" = "👂 Your friend just listened to you";
+
+/* Notification */
+"NOTIFICATION_TOP_TALKER" = "🏆 You ranked #%d on Roger’s top talkers this week! #TalkMore 🎉";
+
+/* Alert action */
+"Okay" = "Okay";
+
+/* Alert title */
+"Oops!" = "Oops!";
+
+/* Alert text */
+"Permission to enable location for Glimpses must be granted via Settings->Roger." = "Permission to enable location for Weather must be granted via your phone Settings->Roger.";
+
+/* Alert text */
+"Permission to enable location for weather must be granted via Settings->Roger." = "Permission to enable location for weather must be granted via  your phone Settings->Roger.";
+
+/* Alert text */
+"Permission to enable push notifications must be granted via Settings->Roger." = "Permission to enable push notifications must be granted via  your phone Settings->Roger.";
+
+/* Sheet action */
+"Reset Photo" = "Reset Photo";
+
+/* Alert title */
+"Roger Version" = "Roger Version";
+
+/* Sheet action */
+"Set Name" = "Set Name";
+
+/* Sheet action */
+"Set Photo" = "Set Photo";
+
+/* Sheet action */
+"Share This Profile" = "Share This Profile";
+
+/* Sheet action */
+"Share Your Profile" = "Share Your Profile";
+
+/* Bubble above share sheet after SMS cancelled */
+"Share voice link" = "Share voice link";
+
+/* Name fallback */
+"Someone" = "Someone";
+
+/* Alert text */
+"Sorry, that person could not be added.
+
+The error we got was: %@" = "Sorry, that person could not be added.
+
+The error we got was: %@";
+
+/* Alert text */
+"Sorry, that username is unavailable." = "Sorry, that username is unavailable.";
+
+/* Accessibility hint, microphone */
+"Starts recording, double tap again when done." = "Starts recording, double tap again when done.";
+
+/* Accessibility label for playback */
+"Stop" = "Stop";
+
+/* Sheet action */
+"Take New Photo" = "Take New Photo";
+
+/* 3D Touch shortcut */
+"Talk to %@" = "Talk to %@";
+
+/* Suggested share text when sharing someone else's profile */
+"Talk with %@ on Roger" = "Talk with %@ on Roger";
+
+/* Default share text */
+"Talk with me on Roger" = "Talk with me on Roger";
+
+/* Tooltip */
+"Tap to finish talking" = "Tap to finish talking";
+
+/* Tooltip */
+"Tap to talk" = "Tap to talk";
+
+/* Sheet action */
+"Turn off Autoplay" = "Turn off Autoplay";
+
+/* Sheet action */
+"Turn on Autoplay" = "Turn on Autoplay";
+
+/* Alert title */
+"Uh oh!" = "Uh oh!";
+
+/* Alert text */
+"Usernames must start with a letter and may only contain letters, numbers, or dashes." = "Usernames must start with a letter and may only contain letters, numbers, or dashes.";
+
+/* Alert text */
+"We failed to change your photo at this time." = "We failed to change your photo at this time.";
+
+/* Alert text */
+"We failed to set your name at this time." = "We failed to set your name at this time.";
+
+/* Alert text */
+"We failed to set your username at this time." = "We failed to set your username at this time.";
+
+/* Network connectivity bar */
+"You can still talk while offline" = "You can still talk while offline";
+
+/* Bubble above top talker share sheet */
+"You're a Top Talker!" = "You're a Top Talker!";
+
+/* Bubble above share sheet after SMS cancelled */
+"Your friend can listen with it." = "Your friend can listen with it.";
+
+/* Top talker suggested share text */
+"🏆 Ranked #%d on @helloRoger top talkers this week! 🎉 #TalkMore" = "🏆 Ranked #%d on @helloRoger top talkers this week! 🎉 #TalkMore";
+
+/* Bubble above top talker share sheet */
+"🏆 Ranked #%d on Roger’s top talkers this week!" = "🏆 Ranked #%d on Roger’s top talkers this week!";
+
+/* Notification action */
+"🐝 Buzz" = "🐝 Buzz";
+
+/* Notification action */
+"💤 Snooze" = "💤 Snooze";
+

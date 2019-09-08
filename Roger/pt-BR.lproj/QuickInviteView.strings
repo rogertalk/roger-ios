@@ -1,0 +1,30 @@
+/* Class = "UILabel"; accessibilityLabel = "Finished inviting contacts"; ObjectID = "0Cb-iX-IiB"; */
+"0Cb-iX-IiB.accessibilityLabel" = "Terminou convidando contatos";
+
+/* Class = "UILabel"; text = "🙌 🎉 All done! 🎈 😌"; ObjectID = "0Cb-iX-IiB"; */
+"0Cb-iX-IiB.text" = "🙌 🎉 Tudo feito! 🎈 😌";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "1YU-9C-SmW"; */
+"1YU-9C-SmW.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "Invite friends"; ObjectID = "8pD-Kp-AfK"; */
+"8pD-Kp-AfK.text" = "Convidar amigos";
+
+/* Class = "UIButton"; normalTitle = "Invite"; ObjectID = "BUO-tr-Cbt"; */
+"BUO-tr-Cbt.normalTitle" = "Convidar";
+
+/* Class = "UIButton"; accessibilityLabel = "previous"; ObjectID = "LAu-OJ-TBJ"; */
+"LAu-OJ-TBJ.accessibilityLabel" = "previous";
+
+/* Class = "UIButton"; normalTitle = "replay"; ObjectID = "LAu-OJ-TBJ"; */
+"LAu-OJ-TBJ.normalTitle" = "replay";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "N0u-lj-R8A"; */
+"N0u-lj-R8A.normalTitle" = "Pular";
+
+/* Class = "UILabel"; text = "Invite Ricardo Vice Santos!"; ObjectID = "mEs-98-xJl"; */
+"mEs-98-xJl.text" = "Invite Ricardo Vice Santos!";
+
+/* Class = "UIButton"; normalTitle = "FIND FRIENDS"; ObjectID = "yCA-5m-fo2"; */
+"yCA-5m-fo2.normalTitle" = "ENCONTRAR AMIGOS";
+

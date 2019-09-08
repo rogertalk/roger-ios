@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "05E62A0463529B38B28585F688CEE74B89A74F37",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05E62A0463529B38B28585F688CEE74B89A74F37" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AC679CD2-6508-4CD6-B1BB-97D1CCB82E71",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05E62A0463529B38B28585F688CEE74B89A74F37" : "roger-ios"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Roger",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Roger.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rogertalk\/roger-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05E62A0463529B38B28585F688CEE74B89A74F37"
+    }
+  ]
+}

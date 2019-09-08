@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="MaterialIcons-Regular.ttf">
+            <string>MaterialIcons-Regular</string>
+        </array>
+        <array key="SFUIText-Regular.otf">
+            <string>SFUIText-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="QuickInviteView" customModule="Roger" customModuleProvider="target">
+            <connections>
+                <outlet property="allDoneLabel" destination="0Cb-iX-IiB" id="rg5-bM-x9v"/>
+                <outlet property="closeButton" destination="1YU-9C-SmW" id="c95-nP-UQe"/>
+                <outlet property="findFriendsButton" destination="yCA-5m-fo2" id="po1-3F-2gv"/>
+                <outlet property="inviteButton" destination="BUO-tr-Cbt" id="Gdy-Z9-hlW"/>
+                <outlet property="inviteFriendsLabel" destination="8pD-Kp-AfK" id="Mnd-Jy-ZFn"/>
+                <outlet property="inviteOptionsView" destination="xkM-lp-tpx" id="HFc-JC-sWo"/>
+                <outlet property="inviteUserLabel" destination="mEs-98-xJl" id="qHB-KK-z0n"/>
+                <outlet property="previousButton" destination="LAu-OJ-TBJ" id="2C1-RF-z7L"/>
+                <outlet property="skipButton" destination="N0u-lj-R8A" id="XQm-sN-Y98"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="200"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Invite friends" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8pD-Kp-AfK">
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Invite Ricardo Vice Santos!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumFontSize="12" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mEs-98-xJl">
+                    <accessibility key="accessibilityConfiguration">
+                        <bool key="isElement" value="NO"/>
+                    </accessibility>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="240" id="7xT-uc-Q8T"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="SFUIText-Regular" family="SF UI Text" pointSize="16"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xkM-lp-tpx">
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N0u-lj-R8A" customClass="MaterialButton" customModule="Roger" customModuleProvider="target">
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="SBb-Oh-tN8"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="SFUIText-Regular" family="SF UI Text" pointSize="16"/>
+                            <state key="normal" title="Skip">
+                                <color key="titleColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="skipTapped:" destination="-1" eventType="touchUpInside" id="gyR-vI-BrV"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BUO-tr-Cbt" customClass="MaterialButton" customModule="Roger" customModuleProvider="target">
+                            <color key="backgroundColor" red="0.25882352939999997" green="0.52156862749999999" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="Bcv-6K-Xvq"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="SFUIText-Regular" family="SF UI Text" pointSize="16"/>
+                            <state key="normal" title="Invite">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="inviteTapped:" destination="-1" eventType="touchUpInside" id="b5m-0c-X0D"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LAu-OJ-TBJ" userLabel="previous">
+                            <accessibility key="accessibilityConfiguration" label="previous"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="LAu-OJ-TBJ" secondAttribute="height" multiplier="1:1" id="vuE-8g-vai"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="MaterialIcons-Regular" family="Material Icons" pointSize="24"/>
+                            <state key="normal" title="replay">
+                                <color key="titleColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="previousTapped:" destination="-1" eventType="touchUpInside" id="weW-Dg-Cjj"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="N0u-lj-R8A" firstAttribute="centerY" secondItem="xkM-lp-tpx" secondAttribute="centerY" id="2VP-wR-fcW"/>
+                        <constraint firstItem="BUO-tr-Cbt" firstAttribute="centerX" secondItem="xkM-lp-tpx" secondAttribute="centerX" constant="55" id="3Q2-Ya-mZ0"/>
+                        <constraint firstItem="LAu-OJ-TBJ" firstAttribute="leading" secondItem="xkM-lp-tpx" secondAttribute="leading" constant="8" id="5jo-ha-97R"/>
+                        <constraint firstItem="N0u-lj-R8A" firstAttribute="height" secondItem="xkM-lp-tpx" secondAttribute="height" id="9Js-NT-kxP"/>
+                        <constraint firstItem="BUO-tr-Cbt" firstAttribute="centerY" secondItem="xkM-lp-tpx" secondAttribute="centerY" id="Tbd-Nb-RRk"/>
+                        <constraint firstItem="N0u-lj-R8A" firstAttribute="centerX" secondItem="xkM-lp-tpx" secondAttribute="centerX" constant="-55" id="eRr-Jj-wFF"/>
+                        <constraint firstItem="N0u-lj-R8A" firstAttribute="leading" secondItem="LAu-OJ-TBJ" secondAttribute="trailing" constant="8" id="f8n-WI-Y6C"/>
+                        <constraint firstItem="BUO-tr-Cbt" firstAttribute="height" secondItem="xkM-lp-tpx" secondAttribute="height" id="h2k-6A-UEg"/>
+                        <constraint firstItem="LAu-OJ-TBJ" firstAttribute="centerY" secondItem="xkM-lp-tpx" secondAttribute="centerY" id="noD-tL-Q0H"/>
+                        <constraint firstAttribute="height" constant="45" id="rH8-U4-zhz"/>
+                        <constraint firstItem="LAu-OJ-TBJ" firstAttribute="height" secondItem="xkM-lp-tpx" secondAttribute="height" id="vvT-D3-T2g"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="5jo-ha-97R"/>
+                        </mask>
+                    </variation>
+                </view>
+                <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yCA-5m-fo2" customClass="MaterialButton" customModule="Roger" customModuleProvider="target">
+                    <color key="backgroundColor" red="0.25882352939999997" green="0.52156862749999999" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="230" id="JK4-WN-qc8"/>
+                        <constraint firstAttribute="height" constant="45" id="R1T-39-8Tz"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="SFUIText-Regular" family="SF UI Text" pointSize="15"/>
+                    <state key="normal" title="FIND FRIENDS">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="findFriendsTapped:" destination="-1" eventType="touchUpInside" id="Qx6-W2-bqW"/>
+                    </connections>
+                </button>
+                <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="🙌 🎉 All done! 🎈 😌" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Cb-iX-IiB">
+                    <accessibility key="accessibilityConfiguration" label="Finished inviting contacts"/>
+                    <fontDescription key="fontDescription" name="SFUIText-Regular" family="SF UI Text" pointSize="20"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1YU-9C-SmW">
+                    <fontDescription key="fontDescription" name="MaterialIcons-Regular" family="Material Icons" pointSize="15"/>
+                    <state key="normal" title="close">
+                        <color key="titleColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="closeTapped:" destination="-1" eventType="touchUpInside" id="gK7-eb-g3W"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="1YU-9C-SmW" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="8" id="117-UC-EvL"/>
+                <constraint firstItem="8pD-Kp-AfK" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="2sb-Pt-pF6"/>
+                <constraint firstItem="mEs-98-xJl" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" constant="-30" id="AQI-8p-mmK"/>
+                <constraint firstItem="xkM-lp-tpx" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="Dfl-up-lc6"/>
+                <constraint firstItem="xkM-lp-tpx" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="MHw-Tr-M8s"/>
+                <constraint firstItem="mEs-98-xJl" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="MpI-wJ-GtE"/>
+                <constraint firstItem="8pD-Kp-AfK" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="8" id="SHy-bS-01Q"/>
+                <constraint firstItem="0Cb-iX-IiB" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="Wfy-B5-mof"/>
+                <constraint firstAttribute="trailing" secondItem="1YU-9C-SmW" secondAttribute="trailing" constant="8" id="ZvM-Qb-faS"/>
+                <constraint firstItem="xkM-lp-tpx" firstAttribute="top" secondItem="mEs-98-xJl" secondAttribute="bottom" constant="20" id="jMa-Gh-Bgr"/>
+                <constraint firstItem="yCA-5m-fo2" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="nGd-Po-Lb2"/>
+                <constraint firstItem="xkM-lp-tpx" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="nsd-aw-FUa"/>
+                <constraint firstItem="yCA-5m-fo2" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" constant="-40" id="yag-IF-WpX"/>
+                <constraint firstItem="0Cb-iX-IiB" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="yx7-3I-VX0"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="Dfl-up-lc6"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="115" y="383"/>
+        </view>
+    </objects>
+</document>

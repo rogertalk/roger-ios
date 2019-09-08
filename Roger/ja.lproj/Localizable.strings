@@ -1,0 +1,980 @@
+/* Quick invite header */
+"%1$@ Invite %2$@
+to this conversation!" = "%1$@ Invite %2$@
+to this conversation!";
+
+/* Specifies the owner of a service (i.e. John's Dropbox */
+"%1$@'s %2$@" = "%1$@'s %2$@";
+
+/* Intro screen */
+"%@ are talking to you.
+Join the conversation." = "%@ are talking to you.
+Join the conversation.";
+
+/* Bubble above share sheet after SMS cancelled */
+"%@ can listen with it." = "%@はこちらを使用して聞くことができます。";
+
+/* Alert text */
+"%@ cannot be added to conversations." = "%@ cannot be added to conversations.";
+
+/* Alert text */
+"%@ has been copied to your clipboard." = "%@をクリップボードにコピーしました。";
+
+/* Stream status */
+"%@ is listening right now" = "%@ is listening right now";
+
+/* Stream status */
+"%@ is talking right now" = "%@ is talking right now";
+
+/* Intro screen */
+"%@ is talking to you.
+Join the conversation." = "%@があなたに話しています。会話に加わりましょう。";
+
+/* Stream status */
+"%@ talked %@" = "%1$@ talked %2$@";
+
+/* VoiceOver label for recents: <Name>, <1 minute> unheard */
+"%@, %@ unheard" = "%1$@, %2$@ unheard";
+
+/* StreamDetails section title */
+"%d Invited" = "%d Invited";
+
+/* Public Conversation member count
+   StreamDetails section title */
+"%d Member(s)" = "%d Member(s)";
+
+/* Time status; on a day (leave EEEE format) */
+"'on' EEEE" = "EEEE";
+
+/* Time status; on a date (leave MMMM d format) */
+"'on' MMMM d" = "MMMM d";
+
+/* Sheet Action */
+"1 week" = "1 week";
+
+/* Sheet Action */
+"8 hours" = "8 hours";
+
+/* Alert text */
+"A group name is required." = "A group name is required.";
+
+/* Username hint */
+"A handle lets you be reached via rogertalk.com/handle" = "A handle lets you be reached via rogertalk.com/handle";
+
+/* Contacts permission supercell action */
+"ACCESS" = "ACCESS";
+
+/* Text on top of avatar with no photo in Settings
+   Text on top of empty avatar */
+"ADD
+PHOTO" = "写真を追加";
+
+/* Roger access code alert title */
+"Access Code" = "Access Code";
+
+/* Stream status */
+"Active on Roger" = "Rogerでアクティブ";
+
+/* Quick Invite option */
+"Add %@" = "Add %@";
+
+/* VoiceOver label for Add cell */
+"Add Conversation" = "Add Conversation";
+
+/* Sheet action */
+"Add Email Address" = "メールアドレスを追加";
+
+/* Group Primer Label */
+"Add Family" = "Add Family";
+
+/* Group Primer Label */
+"Add Friends" = "Add Friends";
+
+/* Contact picker title */
+"Add Members" = "Add Members";
+
+/* StreamDetails section title */
+"Add Members via..." = "Add Members via...";
+
+/* Sheet action */
+"Add Phone Number" = "電話番号を追加";
+
+/* Group Primer Label */
+"Add Team" = "Add Team";
+
+/* Text on top of empty avatar */
+"Add a photo" = "Add a photo";
+
+/* Add member option */
+"Address Book" = "Address Book";
+
+/* Alexa title */
+"Alexa by Amazon" = "Alexa by Amazon";
+
+/* Alert action
+   Alert dialog action */
+"Allow" = "Allow";
+
+/* Alert title */
+"Already taken" = "すでに使用されています";
+
+/* Alert text */
+"An account with that identifier already exists." = "その識別子を持つアカウントが既に存在します。";
+
+/* Description for switching accounts */
+"An account with this identifier already exists. Switch to that account?" = "An account with this identifier already exists. Switch to that account?";
+
+/* Attach item alert title */
+"Attach a photo or a web link to the conversation." = "Attach a photo or a web link to the conversation.";
+
+/* Quick Invite option */
+"Back to %@" = "Back to %@";
+
+/* Alert title */
+"Blocked contacts will not be able to talk to any conversation you are a part of. This is IRREVERSIBLE." = "Blocked contacts will not be able to talk to any conversation you are a part of. This is IRREVERSIBLE.";
+
+/* Add member option
+   StreamDetails section title */
+"Bots" = "Bots";
+
+/* Verify e-mail; button */
+"CONFIRM EMAIL" = "メールアドレスを確認";
+
+/* Verify phone number; button */
+"CONFIRM NUMBER" = "電話番号を確認";
+
+/* Alert action
+   Cancel switching accounts action
+   Sheet Action
+   Sheet action */
+"Cancel" = "キャンセル";
+
+/* Alert title */
+"Cannot access Contacts" = "連絡先にアクセスできません";
+
+/* Alert action
+   Sheet action */
+"Choose Photo" = "写真を選択";
+
+/* Sheet action */
+"Clear Conversation Photo" = "Clear Conversation Photo";
+
+/* Voicemail instructions button; already configured */
+"Configure" = "設定";
+
+/* Confirm switching accounts alert title */
+"Confirm" = "Confirm";
+
+/* Alexa instructions button */
+"Connect" = "接続";
+
+/* Alert text */
+"Connect to %@" = "Connect to %@";
+
+/* Browser title */
+"Connect to Alexa" = "Alexaに接続";
+
+/* Alexa instructions */
+"Connect to your Amazon account
+to start talking with Alexa." = "Amazonアカウントに接続して
+Alexaと会話します。";
+
+/* Alexa connect status */
+"Connected" = "接続済み";
+
+/* Network connectivity bar */
+"Connecting" = "接続中";
+
+/* Tutorial popup text */
+"Continue conversations even
+outside the app.
+
+1. Enable the Roger widget in the Notification Center.
+
+2. Place it at the top for quick access.
+
+3. Talk and listen any time--even from the lock screen!" = "Continue conversations even
+outside the app.
+
+1. Enable the Roger widget in the Notification Center.
+
+2. Place it at the top for quick access.
+
+3. Talk and listen any time--even from the lock screen!";
+
+/* Contact picker title
+   Stream details title */
+"Conversation" = "Conversation";
+
+/* Group invite bubble title */
+"Conversation invite link" = "Conversation invite link";
+
+/* Tutorial popup title */
+"Conversations" = "Conversations";
+
+/* Group invite alert text */
+"Conversations need at least
+one other active member before they
+can be configured.
+
+Try adding someone! 😀" = "Conversations need at least
+one other active member before they
+can be configured.
+
+Try adding someone! 😀";
+
+/* Voicemail alert action */
+"Copy Number" = "電話番号をコピー";
+
+/* Alert text */
+"Could not start a conversation with %@." = "%@との会話を開始できませんでした。";
+
+/* Alert text */
+"Could not start a conversation." = "会話を開始できませんでした。";
+
+/* Group Primer Hint */
+"Create a group for a team." = "Create a group for a team.";
+
+/* Group Primer Hint */
+"Create a group for family." = "Create a group for family.";
+
+/* Group Primer Hint */
+"Create a group for friends." = "Create a group for friends.";
+
+/* Voicemail alert text; value is a number */
+"Dial this phone number by copying and pasting it on the blank space above your phone's keypad:
+
+%@" = "Dial this phone number by copying and pasting it on the blank space above your phone's keypad:
+
+%@";
+
+/* Alert description */
+"Do you want to update your profile picture?" = "Do you want to update your profile picture?";
+
+/* Alert dialog action */
+"Don't Allow" = "Don't Allow";
+
+/* Accessibility label, microphone
+   Alert action */
+"Done" = "完了";
+
+/* Sheet action */
+"Edit Name" = "名前を編集";
+
+/* Alert action */
+"Email" = "Email";
+
+/* Alert title */
+"Enable Location" = "位置情報を有効化";
+
+/* Contacts permission supercell description */
+"Enable access to your contacts in settings" = "設定で連絡先へのアクセスを有効にしてください";
+
+/* Alert title */
+"Error!" = "エラー！";
+
+/* Group Primer label
+   Stream primer */
+"Family" = "Family";
+
+/* Group Primer label
+   Stream primer */
+"Friends" = "Friends";
+
+/* Username hint */
+"Friends can reach you via rogertalk.com/%@" = "Friends can reach you via rogertalk.com/%@";
+
+/* sheet action */
+"Get Web Access Code" = "Get Web Access Code";
+
+/* Voicemail instructions; not configured */
+"Get your voicemail in Roger.
+Talk here to set a greeting." = "Rogerでボイスメールを受信できます。
+ここで話して応答メッセージを吹き込んでください。";
+
+/* Alert action */
+"Go back" = "戻る";
+
+/* Default group name */
+"Group" = "Group";
+
+/* Add member option */
+"Handle" = "Handle";
+
+/* Alert text */
+"Handles must start with a letter and may only contain letters, numbers, or dashes." = "Handles must start with a letter and may only contain letters, numbers, or dashes.";
+
+/* Active contact description */
+"Hasn't joined yet" = "Hasn't joined yet";
+
+/* Feedback e-mail subject */
+"Hello" = "こんにちは";
+
+/* Browser title */
+"Help" = "ヘルプ";
+
+/* Default greeting when we don't know the country */
+"Hi" = "こんにちは";
+
+/* Alert title */
+"Hold on" = "お待ちください";
+
+/* Top talker share text */
+"I ranked #%d on Roger’s top talkers this week! 🏆 %@" = "I ranked #%1$d on Roger’s top talkers this week! 🏆 %2$@";
+
+/* Group invite message */
+"I've added you to a group on the Roger app. Use this link to join our conversation! 
+%@" = "I've added you to a group on the Roger app. Use this link to join our conversation! 
+%@";
+
+/* Alert title */
+"Invalid handle" = "Invalid handle";
+
+/* Accessibility label; first value is time, second value is city */
+"It's %@ in %@" = "%2$@の時間は%1$@です";
+
+/* Accessibility label; first value is time, second value is city, third value is temperature, fourth value is weather */
+"It's %@ in %@ where it's %d degrees and %@" = "%2$@の時間は%1$@で、天気は%3$d度で%4$@です";
+
+/* Onboarding get started button title */
+"Join" = "Join";
+
+/* Share text for a group (Twitter). */
+"Join my group on Roger! %@ #TalkMore" = "Join my group on Roger! %@ #TalkMore";
+
+/* List; more than two items, last items */
+"LIST_END" = "%1$@と%2$@";
+
+/* List; more than three items, middle items */
+"LIST_MIDDLE" = "%1$@, %2$@";
+
+/* List; more than two items, first items */
+"LIST_START" = "%1$@, %2$@";
+
+/* List; only two items */
+"LIST_TWO" = "%1$@と%2$@";
+
+/* Alert action */
+"Later" = "Later";
+
+/* Sheet action */
+"Leave Conversation" = "Leave Conversation";
+
+/* Alert action */
+"Link from Clipboard" = "Link from Clipboard";
+
+/* Accessibility hint, value is a duration (ex: 7 seconds) */
+"Listen, %@" = "聞きます, %@";
+
+/* Accessibility hint; value is a relative time (Listened <an hour ago>) */
+"Listened %@" = "%@前に聞きました";
+
+/* Listening stream status text */
+"Listening to %@" = "Listening to %@";
+
+/* Live mode status */
+"Live Playback Off" = "Live Playback Off";
+
+/* Live mode status */
+"Live Playback On" = "Live Playback On";
+
+/* Alert title */
+"Members needed" = "Members needed";
+
+/* Accessibility label, microphone */
+"Microphone" = "マイク";
+
+/* Sheet action */
+"More..." = "More...";
+
+/* Sheet action */
+"Mute Notifications" = "Mute Notifications";
+
+/* Buzz notification */
+"NOTIFICATION_ATTACHMENT" = "🖼 %1$@ shared a %2$@ with you";
+
+/* Buzz notification, group */
+"NOTIFICATION_ATTACHMENT_GROUP" = "🖼 %1$@ shared a %2$@ with %3$@";
+
+/* Buzz notification */
+"NOTIFICATION_BUZZ" = "🐝 %@がBuzzをあなたに送信しました";
+
+/* Buzz notification, group */
+"NOTIFICATION_BUZZ_GROUP" = "🐝 %1$@が%2$@にBuzzを送信しました";
+
+/* Group Primer notification */
+"NOTIFICATION_GROUP_PRIMER" = "😋 The best way to use Roger is in a group. Try making one now!";
+
+/* Notification, add to group */
+"NOTIFICATION_JOIN_GROUP" = "🎉 %1$@ added you to %2$@";
+
+/* Notification, name listening to user */
+"NOTIFICATION_LISTENING_NOW" = "😌 %@ is listening to you...";
+
+/* Notification, name listening to group */
+"NOTIFICATION_LISTENING_NOW_GROUP" = "😌 %1$@ is listening to %2$@...";
+
+/* Notification, listening to name */
+"NOTIFICATION_LISTENING_TO_NAME" = "👂 Listening to %@";
+
+/* Notification, just listened to your public chunk */
+"NOTIFICATION_LISTENING_UNKNOWN" = "👂 Your friend just listened to you";
+
+/* Notification, name listening to user */
+"NOTIFICATION_RELISTENING_NOW" = "☺️ %@ is relistening to you...";
+
+/* Notification, name talking to user */
+"NOTIFICATION_TALKED" = "😀 %@ talked to you";
+
+/* Notification, name talking to group */
+"NOTIFICATION_TALKED_GROUP" = "😀 %1$@ talked to %2$@";
+
+/* Reminder notification */
+"NOTIFICATION_TALKED_HOURS_AGO" = "😅 %@ talked an hour ago";
+
+/* Notification */
+"NOTIFICATION_TALKED_MINUTE_AGO" = "😅 %@は一分前に送信しました";
+
+/* Notification, name talking to user */
+"NOTIFICATION_TALKING_NOW" = "😮 %@ is talking...";
+
+/* Notification, name talking to group */
+"NOTIFICATION_TALKING_NOW_GROUP" = "😮 %1$@ is talking to %2$@...";
+
+/* Notification */
+"NOTIFICATION_TALKING_UNKNOWN" = "😀 誰かがあなたに話しています";
+
+/* Notification */
+"NOTIFICATION_TALKING_UNKNOWN_GROUP" = "😀 誰かが%@と話しています";
+
+/* Notification */
+"NOTIFICATION_TOP_TALKER" = "🏆 あなたはRogerのトップトーカー#%d位に輝きました！ #TalkMore 🎉";
+
+/* Notification, name talking to user */
+"NOTIFICATION_VIEWINGATTACHMENT" = "👀 %@ just saw your photo";
+
+/* Notification, name talking to user */
+"NOTIFICATION_VIEWINGATTACHMENT_GROUP" = "👀 %@ just saw your group photo";
+
+/* Notification, name talking to group */
+"NOTIFICATION_VIEWINGATTACHMENT_TITLED_GROUP" = "👀 %1$@ just saw the photo in %2$@";
+
+/* New conversation cell title */
+"New" = "New";
+
+/* Streamd details title
+   User name to display when unknown */
+"New Conversation" = "New Conversation";
+
+/* Tutorial popup title */
+"New! Introducing TalkHeads." = "New! Introducing TalkHeads.";
+
+/* Selected contacts bar accessibility zero contacts */
+"No selected people" = "No selected people";
+
+/* Alexa connect status */
+"Not Connected" = "接続されていません";
+
+/* Alert action */
+"OK" = "OK";
+
+/* Alert action */
+"Okay" = "OK";
+
+/* Alert title */
+"Oops!" = "おっと！";
+
+/* Alert action */
+"Open Help" = "Open Help";
+
+/* Alert action */
+"Open link" = "Open link";
+
+/* Accessibility label to Pause playback */
+"Pause" = "Pause";
+
+/* Contact picker section */
+"People" = "People";
+
+/* Alert text */
+"Permission to access your Contacts list must be granted via Settings->Roger." = "連絡先へのアクセス許可を設定画面より有効にする必要があります。>Roger.";
+
+/* Alert text */
+"Permission to enable location for Weather must be granted via Settings->Roger." = "Permission to enable location for Weather must be granted via Settings->Roger.";
+
+/* Alert text */
+"Permission to enable location for weather must be granted via Settings->Roger." = "天気を使用するのに連絡先へのアクセス許可を設定画面より有効にする必要があります。>Roger.";
+
+/* Alert text */
+"Please check your phone number and internet connection." = "電話番号とインターネット接続を確認してください。";
+
+/* Email support alert message */
+"Please note that Roger Support is done by volunteers. We try to respond as quickly as possible, but it may take a while.
+
+Please look at the Roger Help section: It has important troubleshooting tips and answers to most questions." = "Please note that Roger Support is done by volunteers. We try to respond as quickly as possible, but it may take a while.
+
+Please look at the Roger Help section: It has important troubleshooting tips and answers to most questions.";
+
+/* Stream card raise hint */
+"Raise to listen privately" = "Raise to listen privately";
+
+/* Contact picker section */
+"Recents" = "Recents";
+
+/* Sheet action */
+"Remove from Conversation" = "Remove from Conversation";
+
+/* Alert action
+   Sheet action */
+"Report & Block" = "Report & Block";
+
+/* Text for block user confirmation dialog */
+"Report & Block %@?" = "Report & Block %@?";
+
+/* Alert title */
+"Roger Version" = "Rogerバージョン情報";
+
+/* Contacts permission supercell action */
+"SETTINGS" = "設定";
+
+/* Contact picker section
+   Contact picker title */
+"Search" = "Search";
+
+/* Selected people preview bar */
+"Selected People Bar" = "Selected People Bar";
+
+/* Selected contacts bar accessibility intro */
+"Selected people are" = "Selected people are";
+
+/* Contact picker services section */
+"Services" = "Services";
+
+/* Sheet action */
+"Set Conversation Photo" = "Set Conversation Photo";
+
+/* Sheet action */
+"Set Conversation Title" = "Set Conversation Title";
+
+/* Voicemail alert title */
+"Set Up Voicemail" = "ボイスメールを設定";
+
+/* Voicemail microphone tooltip */
+"Set a greeting" = "応答メッセージを設定";
+
+/* Settings add name placeholder text */
+"Set name" = "Set name";
+
+/* Voicemail instructions button; not configured */
+"Set up" = "設定";
+
+/* Share bot action */
+"Share %@" = "Share %@";
+
+/* Add member option */
+"Share Conversation Link" = "Share Conversation Link";
+
+/* Sheet action */
+"Share Profile" = "Share Profile";
+
+/* Sheet action */
+"Share This Profile" = "このプロフィールを設定";
+
+/* Alert action */
+"Share new" = "Share new";
+
+/* Bubble above share sheet after SMS cancelled */
+"Share voice link" = "ボイスリンクを共有";
+
+/* Alert title */
+"Shared Link" = "Shared Link";
+
+/* Quick Invite option */
+"Skip %@" = "Skip %@";
+
+/* Name fallback
+   Notification default sender name
+   Text to show if we don't know the name of a person. */
+"Someone" = "誰か";
+
+/* Alert text */
+"Something went wrong on our side. Sorry about that!" = "サービス側で障害が発生しています。申し訳ございません。";
+
+/* Alert text */
+"Something went wrong. Please try again!" = "Something went wrong. Please try again!";
+
+/* Alert text */
+"Sorry, that handle is unavailable." = "Sorry, that handle is unavailable.";
+
+/* Alert text */
+"Sorry, that person could not be added.
+
+The error we got was: %@" = "相手を追加することができませんでした。
+
+エラーは: %@";
+
+/* Voicemail instructions; not supported */
+"Sorry, we don't currently
+support your operator." = "あなたがご利用中の
+電話サービス会社は対応していません。";
+
+/* Accessibility hint; value is a relative time (Spoke <an hour ago>) */
+"Spoke %@" = "話した時間 %@";
+
+/* Sheet action */
+"Start New Conversation" = "Start New Conversation";
+
+/* VoiceOver hint for Add cell */
+"Start a new conversation" = "Start a new conversation";
+
+/* Tutorial popup text */
+"Start individual or group conversations with your friends." = "Start individual or group conversations with your friends.";
+
+/* Accessibility hint, microphone */
+"Starts recording, double tap again when done." = "録音を開始します。終わったらダブルタップしてください。";
+
+/* Verify phone number */
+"Still no code? Get it via phone call instead." = "コードが着信しませんか? 電話通話で取得してください。";
+
+/* Accessibility label to Stop playback */
+"Stop" = "ストップ";
+
+/* Alert title */
+"Support" = "Support";
+
+/* Confirm switching accounts action */
+"Switch" = "Switch";
+
+/* Sheet action */
+"Take New Photo" = "新しい写真を撮る";
+
+/* Alert action */
+"Take Photo" = "Take Photo";
+
+/* Voicemail instructions; already configured */
+"Talk here to set a greeting.
+Press the button below for options." = "ここで応答メッセージを録音できます。
+次のボタンをタップし、オプションを選択してください。";
+
+/* 3D Touch shortcut */
+"Talk to %@" = "%@に話す";
+
+/* Share bot call to action */
+"Talk to share your voice" = "Talk to share your voice";
+
+/* Share bot description */
+"Talk to share your voice
+outside of Roger" = "Talk to share your voice
+outside of Roger";
+
+/* Share text for someone else's profile. */
+"Talk with %@ on Roger! %@" = "Talk with %1$@ on Roger! %2$@";
+
+/* Share text for someone else's profile (Twitter). */
+"Talk with %@ on Roger! %@ #TalkMore" = "Talk with %1$@ on Roger! %2$@ #TalkMore";
+
+/* Invite SMS */
+"Talk with me on Roger!" = "Talk with me on Roger!";
+
+/* Share text for own profile.
+   Text for inviting a friend. */
+"Talk with me on Roger! %@" = "Talk with me on Roger! %@";
+
+/* Share text for own profile (Twitter). */
+"Talk with me on Roger! %@ #TalkMore" = "Talk with me on Roger! %@ #TalkMore";
+
+/* Share bot share sheet description */
+"Talking on Roger! Listen here: %@ #TalkMore" = "Talking on Roger! Listen here: %@ #TalkMore";
+
+/* Info shown while recording */
+"Talking to %@..." = "Talking to %@...";
+
+/* Info shown while recording */
+"Talking..." = "Talking...";
+
+/* AutoPlay status indicator */
+"Tap for Walkie-Talkie mode" = "Tap for Walkie-Talkie mode";
+
+/* Stream card listen hint */
+"Tap or raise to listen" = "Tap or raise to listen";
+
+/* Tooltip */
+"Tap to finish talking" = "タップして発言を終了します。";
+
+/* Stream card listen hint */
+"Tap to listen" = "Tap to listen";
+
+/* Group Primer label
+   Stream primer */
+"Team" = "Team";
+
+/* Browser title */
+"Terms of Service" = "利用規約";
+
+/* Stream transcription alert title */
+"Text Preview" = "Text Preview";
+
+/* Alert text */
+"That doesn't look like a phone number." = "電話番号ではないようです。";
+
+/* Alert text */
+"That doesn't look like an e-mail." = "メールアドレスではないようです。";
+
+/* Alert text */
+"That doesn't look like the code we sent." = "お送りしたコードと違っているようです。";
+
+/* Alert text */
+"That doesn't look like your name." = "あなたの名前と違うようです。";
+
+/* Alert text */
+"The account you logged in with is not active." = "ログオンに使用したアカウントはアクティブではありません。";
+
+/* Alert text */
+"This is exciting, we know. But please wait until the timer runs out before trying the phone call option." = "お急ぎでしょうが、電話によるオプションはタイマーのカウントダウンが完了するまでお待ちください。";
+
+/* Voicemail alert text; first value is a number, second value is the setup message */
+"To disable voicemail, dial this number:
+
+%@
+
+%@" = "ボイスメールを無効にするには以下の番号をダイアルしてください:
+
+%1$@
+
+%2$@";
+
+/* Voicemail alert text; value is a number */
+"To set up voicemail again, dial this phone number:
+
+%@" = "ボイスメールを設定するには次の電話番号をダイアルしてください:
+
+%@";
+
+/* Alert action */
+"Try again" = "もう一度やり直す";
+
+/* Sheet action */
+"Turn off Autoplay" = "オートプレイを無効にする";
+
+/* Sheet action */
+"Turn on Autoplay" = "オートプレイを有効にする";
+
+/* Alert text */
+"Turn on notifications to get notified when your friends talk to you!" = "Turn on notifications to get notified when your friends talk to you!";
+
+/* Alert title */
+"Uh oh!" = "おっと!";
+
+/* Sheet action */
+"Unmute Notifications" = "Unmute Notifications";
+
+/* Roger access code alert title */
+"Use this access code to connect to services in Roger" = "Use this access code to connect to services in Roger";
+
+/* Voicemail instructions title */
+"Voicemail in Roger" = "Rogerのボイスメール";
+
+/* Stream Details waiting view */
+"Waiting for members to join" = "Waiting for members to join";
+
+/* AutoPlay status indicator */
+"Walkie-Talkie on" = "Walkie-Talkie on";
+
+/* Alert text */
+"We failed to change your photo at this time." = "写真の変更に失敗しました。";
+
+/* Alert text */
+"We failed to set your handle at this time." = "We failed to set your handle at this time.";
+
+/* Alert text */
+"We failed to set your name at this time." = "あなたの名前の設定に失敗しました。";
+
+/* Alert text */
+"We failed to validate your code at this time." = "あなたのコードの認証に失敗しました。";
+
+/* E-mail/phone verification step */
+"We sent you a code
+at %@." = "あなたにコードを
+%@にお送りしました。";
+
+/* Verify e-mail */
+"What's your email?" = "あなたのメールアドレスを教えてください。";
+
+/* Verify phone number */
+"What's your number?" = "あなたの電話番号を教えてください。";
+
+/* Alert action */
+"Yes" = "Yes";
+
+/* Network connectivity bar */
+"You can still talk while offline" = "オフラインでも話すことができます";
+
+/* Roger access code alert message */
+"You can use this code to access your account on the web.
+
+%@" = "You can use this code to access your account on the web.
+
+%@";
+
+/* Alert text */
+"You must enter a valid code." = "正しいコードを入力してください。";
+
+/* Accessibility hint; value is a relative time (You spoke <an hour ago>) */
+"You spoke %@" = "%@に話しました。";
+
+/* Verify phone number */
+"You'll get a phone call momentarily." = "まもなく電話が着信します。";
+
+/* Bubble above top talker share sheet */
+"You're a Top Talker!" = "あなたはトップトーカーです!";
+
+/* Alert text */
+"Your Contacts list has been restricted." = "あなたの連絡先は制限されています。";
+
+/* Verify phone number */
+"Your code should arrive soon." = "まもなくあなたのコードをお送りします。";
+
+/* Verify phone number */
+"Your code should arrive within %@" = "あなたのコードは%@以内に着信します";
+
+/* Stream Details waiting view */
+"Your conversation is empty, add members!" = "Your conversation is empty, add members!";
+
+/* Bubble above share sheet after SMS cancelled */
+"Your friend can listen with it." = "あなたの友達はこれを聞くことができます。";
+
+/* Share handle label */
+"Your handle is: @%@" = "Your handle is: @%@";
+
+/* Time status */
+"a few hours ago" = "数時間前";
+
+/* Time status */
+"a few minutes ago" = "数分前";
+
+/* Time status */
+"a minute ago" = "1分前";
+
+/* Time status */
+"about an hour ago" = "約1時間前";
+
+/* Time status; value is a time */
+"at %@" = "%@";
+
+/* Weather */
+"clear" = "快晴";
+
+/* Weather */
+"cloudy" = "曇";
+
+/* Weather */
+"fog" = "霧";
+
+/* Time status */
+"half an hour ago" = "30分前";
+
+/* Stream status */
+"hasn't listened yet" = "まだ聞いていません";
+
+/* Time status */
+"just now" = "今";
+
+/* Time status */
+"last night" = "昨晩";
+
+/* Attachment type */
+"link" = "link";
+
+/* Stream status */
+"listened %@" = "%@に聞きました";
+
+/* Stream status */
+"listening right now" = "今聞きました";
+
+/* Stream status */
+"nobody has listened yet" = "nobody has listened yet";
+
+/* Active contact description */
+"on Roger" = "on Roger";
+
+/* Weather */
+"partly cloudy" = "部分的に曇";
+
+/* Attachment type */
+"photo" = "photo";
+
+/* Weather */
+"rain" = "雨";
+
+/* Weather */
+"sleet" = "みぞれ";
+
+/* Weather */
+"snow" = "雪";
+
+/* Participants notification default member name */
+"someone else" = "someone else";
+
+/* Stream status */
+"talked %@" = "話しました (%@)";
+
+/* Stream status */
+"talking right now" = "発言中です";
+
+/* Time status */
+"this morning" = "今朝";
+
+/* Time status; value is the hour */
+"today around %@" = "今日%@頃";
+
+/* Stream status */
+"unreachable" = "接続できません";
+
+/* Stream status */
+"via %@" = "%@経由";
+
+/* Weather */
+"wind" = "風";
+
+/* Time status */
+"yesterday around %@" = "昨日%@頃";
+
+/* Time status */
+"yesterday morning" = "昨日の朝";
+
+/* Stream default name */
+"your conversation" = "your conversation";
+
+/* Greeting; first value is local word for Hi, second value is name */
+"“%@ %@”" = "“%1$@ %2$@”";
+
+/* Alexa's call to action tooltip */
+"“What’s the weather?”" = "「お天気はどうですか?」";
+
+/* New stream notification */
+"🎉 %@ just started a conversation with you!" = "🎉 %@ just started a conversation with you!";
+
+/* Top talker Twitter share text */
+"🏆 Ranked #%d on @helloRoger top talkers this week! 🎉 %@ #TalkMore" = "🏆 Ranked #%1$d on @helloRoger top talkers this week! 🎉 %2$@ #TalkMore";
+
+/* Bubble above top talker share sheet */
+"🏆 Ranked #%d on Roger’s top talkers this week!" = "🏆 今週のRogerトップトーカー#%d位に輝きました!";
+
+/* Notification action */
+"👂 listen" = "👂 listen";
+
+/* Alert title */
+"😀 Notifications" = "😀 Notifications";
+
+/* Notification */
+"😳 Psst...%@ talked to you yesterday. Listen before it expires!" = "😳 Psst...%@ talked to you yesterday. Listen before it expires!";
+
+/* Participants notification body */
+"🙌 %@ added %@ to %@" = "🙌 %1$@ added %2$@ to %3$@";
+
+/* Participants notification body */
+"🙌 %@ joined %@" = "🙌 %1$@ joined %2$@";
+
+/* Participants notification body */
+"🙌 %@ joined your conversation" = "🙌 %@ joined your conversation";
+

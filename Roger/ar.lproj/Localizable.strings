@@ -1,0 +1,981 @@
+/* Quick invite header */
+"%1$@ Invite %2$@
+to this conversation!" = "%1$@ Invite %2$@
+to this conversation!";
+
+/* Specifies the owner of a service (i.e. John's Dropbox */
+"%1$@'s %2$@" = "%1$@'s %2$@";
+
+/* Intro screen */
+"%@ are talking to you.
+Join the conversation." = "%@ are talking to you.
+Join the conversation.";
+
+/* Bubble above share sheet after SMS cancelled */
+"%@ can listen with it." = "يمكن الاستماع %@.";
+
+/* Alert text */
+"%@ cannot be added to conversations." = "%@ cannot be added to conversations.";
+
+/* Alert text */
+"%@ has been copied to your clipboard." = "تم نسخ %@ إلى الحافظة الخاصة بك.";
+
+/* Stream status */
+"%@ is listening right now" = "%@ is listening right now";
+
+/* Stream status */
+"%@ is talking right now" = "%@ is talking right now";
+
+/* Intro screen */
+"%@ is talking to you.
+Join the conversation." = "%@ يتحدث إليك.
+الانضمام إلى المحادثة.";
+
+/* Stream status */
+"%@ talked %@" = "%1$@ talked %2$@";
+
+/* VoiceOver label for recents: <Name>, <1 minute> unheard */
+"%@, %@ unheard" = "%1$@, %2$@ unheard";
+
+/* StreamDetails section title */
+"%d Invited" = "%d Invited";
+
+/* Public Conversation member count
+   StreamDetails section title */
+"%d Member(s)" = "%d Member(s)";
+
+/* Time status; on a day (leave EEEE format) */
+"'on' EEEE" = "'يوم' EEEE";
+
+/* Time status; on a date (leave MMMM d format) */
+"'on' MMMM d" = "'في' MMMM d";
+
+/* Sheet Action */
+"1 week" = "1 week";
+
+/* Sheet Action */
+"8 hours" = "8 hours";
+
+/* Alert text */
+"A group name is required." = "A group name is required.";
+
+/* Username hint */
+"A handle lets you be reached via rogertalk.com/handle" = "إسم المستخدم يتيح لك الوصول إليه عبر rogertalk.com/handle";
+
+/* Contacts permission supercell action */
+"ACCESS" = "ACCESS";
+
+/* Text on top of avatar with no photo in Settings
+   Text on top of empty avatar */
+"ADD
+PHOTO" = "إضافة صورة";
+
+/* Roger access code alert title */
+"Access Code" = "Access Code";
+
+/* Stream status */
+"Active on Roger" = "نشط على Roger";
+
+/* Quick Invite option */
+"Add %@" = "Add %@";
+
+/* VoiceOver label for Add cell */
+"Add Conversation" = "Add Conversation";
+
+/* Sheet action */
+"Add Email Address" = "إضافة بريد إلكتروني";
+
+/* Group Primer Label */
+"Add Family" = "Add Family";
+
+/* Group Primer Label */
+"Add Friends" = "Add Friends";
+
+/* Contact picker title */
+"Add Members" = "Add Members";
+
+/* StreamDetails section title */
+"Add Members via..." = "Add Members via...";
+
+/* Sheet action */
+"Add Phone Number" = "إضافة رقم الهاتف";
+
+/* Group Primer Label */
+"Add Team" = "Add Team";
+
+/* Text on top of empty avatar */
+"Add a photo" = "Add a photo";
+
+/* Add member option */
+"Address Book" = "Address Book";
+
+/* Alexa title */
+"Alexa by Amazon" = "أليكسا من شركة أمازون";
+
+/* Alert action
+   Alert dialog action */
+"Allow" = "سماح";
+
+/* Alert title */
+"Already taken" = "موجود من قبل";
+
+/* Alert text */
+"An account with that identifier already exists." = "إسم مستخدم موجود من قبل.";
+
+/* Description for switching accounts */
+"An account with this identifier already exists. Switch to that account?" = "حساب مع هذا المعرف موجود بالفعل.
+قم بالتبديل إلى هذا الحساب؟";
+
+/* Attach item alert title */
+"Attach a photo or a web link to the conversation." = "Attach a photo or a web link to the conversation.";
+
+/* Quick Invite option */
+"Back to %@" = "Back to %@";
+
+/* Alert title */
+"Blocked contacts will not be able to talk to any conversation you are a part of. This is IRREVERSIBLE." = "Blocked contacts will not be able to talk to any conversation you are a part of. This is IRREVERSIBLE.";
+
+/* Add member option
+   StreamDetails section title */
+"Bots" = "Bots";
+
+/* Verify e-mail; button */
+"CONFIRM EMAIL" = "تأكيد البريد الإلكتروني";
+
+/* Verify phone number; button */
+"CONFIRM NUMBER" = "تأكيد رقم الهاتف";
+
+/* Alert action
+   Cancel switching accounts action
+   Sheet Action
+   Sheet action */
+"Cancel" = "إلغاء";
+
+/* Alert title */
+"Cannot access Contacts" = "لا يمكن الوصول لجهات الاتصال";
+
+/* Alert action
+   Sheet action */
+"Choose Photo" = "اختيار صورة";
+
+/* Sheet action */
+"Clear Conversation Photo" = "مسح صور المحادثة";
+
+/* Voicemail instructions button; already configured */
+"Configure" = "تكوين";
+
+/* Confirm switching accounts alert title */
+"Confirm" = "تأكيد";
+
+/* Alexa instructions button */
+"Connect" = "تسجيل الدخول";
+
+/* Alert text */
+"Connect to %@" = "Connect to %@";
+
+/* Browser title */
+"Connect to Alexa" = "ربط الإتصال بأليكسا";
+
+/* Alexa instructions */
+"Connect to your Amazon account
+to start talking with Alexa." = "تسجيل الدخول بحساب الأمازون 
+لربط الإتصال بأليكسا.";
+
+/* Alexa connect status */
+"Connected" = "تم ربط الإتصال";
+
+/* Network connectivity bar */
+"Connecting" = "في انتظار الشبكة";
+
+/* Tutorial popup text */
+"Continue conversations even
+outside the app.
+
+1. Enable the Roger widget in the Notification Center.
+
+2. Place it at the top for quick access.
+
+3. Talk and listen any time--even from the lock screen!" = "Continue conversations even
+outside the app.
+
+1. Enable the Roger widget in the Notification Center.
+
+2. Place it at the top for quick access.
+
+3. Talk and listen any time--even from the lock screen!";
+
+/* Contact picker title
+   Stream details title */
+"Conversation" = "Conversation";
+
+/* Group invite bubble title */
+"Conversation invite link" = "Conversation invite link";
+
+/* Tutorial popup title */
+"Conversations" = "المحادثات";
+
+/* Group invite alert text */
+"Conversations need at least
+one other active member before they
+can be configured.
+
+Try adding someone! 😀" = "Conversations need at least
+one other active member before they
+can be configured.
+
+Try adding someone! 😀";
+
+/* Voicemail alert action */
+"Copy Number" = "نسخ الرقم";
+
+/* Alert text */
+"Could not start a conversation with %@." = "تعذر بدء المحادثة مع %@.";
+
+/* Alert text */
+"Could not start a conversation." = "تعذر بدء المحادثة.";
+
+/* Group Primer Hint */
+"Create a group for a team." = "Create a group for a team.";
+
+/* Group Primer Hint */
+"Create a group for family." = "Create a group for family.";
+
+/* Group Primer Hint */
+"Create a group for friends." = "Create a group for friends.";
+
+/* Voicemail alert text; value is a number */
+"Dial this phone number by copying and pasting it on the blank space above your phone's keypad:
+
+%@" = "Dial this phone number by copying and pasting it on the blank space above your phone's keypad:
+
+%@";
+
+/* Alert description */
+"Do you want to update your profile picture?" = "Do you want to update your profile picture?";
+
+/* Alert dialog action */
+"Don't Allow" = "Don't Allow";
+
+/* Accessibility label, microphone
+   Alert action */
+"Done" = "تم";
+
+/* Sheet action */
+"Edit Name" = "تحرير الإسم";
+
+/* Alert action */
+"Email" = "Email";
+
+/* Alert title */
+"Enable Location" = "تشغيل خدمات الموقع";
+
+/* Contacts permission supercell description */
+"Enable access to your contacts in settings" = "السماح بالوصول إلى جهات الاتصال الخاصة بك في الإعدادات";
+
+/* Alert title */
+"Error!" = "خطأ!";
+
+/* Group Primer label
+   Stream primer */
+"Family" = "Family";
+
+/* Group Primer label
+   Stream primer */
+"Friends" = "Friends";
+
+/* Username hint */
+"Friends can reach you via rogertalk.com/%@" = "Friends can reach you via rogertalk.com/%@";
+
+/* sheet action */
+"Get Web Access Code" = "Get Web Access Code";
+
+/* Voicemail instructions; not configured */
+"Get your voicemail in Roger.
+Talk here to set a greeting." = "احصل على البريد الصوتي على Roger. 
+
+تحدث هنا لتعيين رسالة ترحيب.";
+
+/* Alert action */
+"Go back" = "الرجوع للخلف";
+
+/* Default group name */
+"Group" = "Group";
+
+/* Add member option */
+"Handle" = "Handle";
+
+/* Alert text */
+"Handles must start with a letter and may only contain letters, numbers, or dashes." = "يجب أن تبدأ أسماء المستخدمين بحرف وقد تحتوي فقط على أحرف٬ أرقام أو شرطات.";
+
+/* Active contact description */
+"Hasn't joined yet" = "Hasn't joined yet";
+
+/* Feedback e-mail subject */
+"Hello" = "مرحبا";
+
+/* Browser title */
+"Help" = "مساعدة";
+
+/* Default greeting when we don't know the country */
+"Hi" = "مرحبا";
+
+/* Alert title */
+"Hold on" = "انتظر";
+
+/* Top talker share text */
+"I ranked #%d on Roger’s top talkers this week! 🏆 %@" = "أنا في المرتبة #%1$d على Roger's أعلى المتكلمون هذا الأسبوع! 🏆 %2$@";
+
+/* Group invite message */
+"I've added you to a group on the Roger app. Use this link to join our conversation! 
+%@" = "I've added you to a group on the Roger app. Use this link to join our conversation! 
+%@";
+
+/* Alert title */
+"Invalid handle" = "إسم المستخدم غير صحيح";
+
+/* Accessibility label; first value is time, second value is city */
+"It's %@ in %@" = "إنها الساعة %1$@ في %2$@";
+
+/* Accessibility label; first value is time, second value is city, third value is temperature, fourth value is weather */
+"It's %@ in %@ where it's %d degrees and %@" = "إنها الساعة %1$@ في %2$@ بدرجة %3$d و %4$@";
+
+/* Onboarding get started button title */
+"Join" = "Join";
+
+/* Share text for a group (Twitter). */
+"Join my group on Roger! %@ #TalkMore" = "Join my group on Roger! %@ #TalkMore";
+
+/* List; more than two items, last items */
+"LIST_END" = "%1$@ و %2$@";
+
+/* List; more than three items, middle items */
+"LIST_MIDDLE" = "%1$@، %2$@";
+
+/* List; more than two items, first items */
+"LIST_START" = "%1$@، %2$@";
+
+/* List; only two items */
+"LIST_TWO" = "%1$@ و %2$@";
+
+/* Alert action */
+"Later" = "Later";
+
+/* Sheet action */
+"Leave Conversation" = "Leave Conversation";
+
+/* Alert action */
+"Link from Clipboard" = "Link from Clipboard";
+
+/* Accessibility hint, value is a duration (ex: 7 seconds) */
+"Listen, %@" = "الاستماع، %@";
+
+/* Accessibility hint; value is a relative time (Listened <an hour ago>) */
+"Listened %@" = "استمع %@";
+
+/* Listening stream status text */
+"Listening to %@" = "Listening to %@";
+
+/* Live mode status */
+"Live Playback Off" = "Live Playback Off";
+
+/* Live mode status */
+"Live Playback On" = "Live Playback On";
+
+/* Alert title */
+"Members needed" = "Members needed";
+
+/* Accessibility label, microphone */
+"Microphone" = "ميكروفون";
+
+/* Sheet action */
+"More..." = "More...";
+
+/* Sheet action */
+"Mute Notifications" = "Mute Notifications";
+
+/* Buzz notification */
+"NOTIFICATION_ATTACHMENT" = "🖼 %1$@ shared a %2$@ with you";
+
+/* Buzz notification, group */
+"NOTIFICATION_ATTACHMENT_GROUP" = "🖼 %1$@ shared a %2$@ with %3$@";
+
+/* Buzz notification */
+"NOTIFICATION_BUZZ" = "🐝 %@ بزبزك";
+
+/* Buzz notification, group */
+"NOTIFICATION_BUZZ_GROUP" = "🐝 %1$@ بزبز %2$@";
+
+/* Group Primer notification */
+"NOTIFICATION_GROUP_PRIMER" = "😋 The best way to use Roger is in a group. Try making one now!";
+
+/* Notification, add to group */
+"NOTIFICATION_JOIN_GROUP" = "🎉 %1$@ added you to %2$@";
+
+/* Notification, name listening to user */
+"NOTIFICATION_LISTENING_NOW" = "😌 %@ is listening to you...";
+
+/* Notification, name listening to group */
+"NOTIFICATION_LISTENING_NOW_GROUP" = "😌 %1$@ is listening to %2$@...";
+
+/* Notification, listening to name */
+"NOTIFICATION_LISTENING_TO_NAME" = "👂 Listening to %@";
+
+/* Notification, just listened to your public chunk */
+"NOTIFICATION_LISTENING_UNKNOWN" = "👂 صديقك استمعت إليك الآن";
+
+/* Notification, name listening to user */
+"NOTIFICATION_RELISTENING_NOW" = "☺️ %@ is relistening to you...";
+
+/* Notification, name talking to user */
+"NOTIFICATION_TALKED" = "😀 %@ talked to you";
+
+/* Notification, name talking to group */
+"NOTIFICATION_TALKED_GROUP" = "😀 %1$@ talked to %2$@";
+
+/* Reminder notification */
+"NOTIFICATION_TALKED_HOURS_AGO" = "😅 %@ talked an hour ago";
+
+/* Notification */
+"NOTIFICATION_TALKED_MINUTE_AGO" = "😅 تحدث قبل دقيقة %@";
+
+/* Notification, name talking to user */
+"NOTIFICATION_TALKING_NOW" = "😮 %@ is talking...";
+
+/* Notification, name talking to group */
+"NOTIFICATION_TALKING_NOW_GROUP" = "😮 %1$@ is talking to %2$@...";
+
+/* Notification */
+"NOTIFICATION_TALKING_UNKNOWN" = "😀 شخص ما يتحدث إليك";
+
+/* Notification */
+"NOTIFICATION_TALKING_UNKNOWN_GROUP" = "😀 شخص ما يتحدث إلى %@";
+
+/* Notification */
+"NOTIFICATION_TOP_TALKER" = "🏆 في المرتبة #%d على Roger أكثر المتحدثين هذا الأسبوع! TalkMore# 🎉";
+
+/* Notification, name talking to user */
+"NOTIFICATION_VIEWINGATTACHMENT" = "👀 %@ just saw your photo";
+
+/* Notification, name talking to user */
+"NOTIFICATION_VIEWINGATTACHMENT_GROUP" = "👀 %@ just saw your group photo";
+
+/* Notification, name talking to group */
+"NOTIFICATION_VIEWINGATTACHMENT_TITLED_GROUP" = "👀 %1$@ just saw the photo in %2$@";
+
+/* New conversation cell title */
+"New" = "New";
+
+/* Streamd details title
+   User name to display when unknown */
+"New Conversation" = "New Conversation";
+
+/* Tutorial popup title */
+"New! Introducing TalkHeads." = "New! Introducing TalkHeads.";
+
+/* Selected contacts bar accessibility zero contacts */
+"No selected people" = "No selected people";
+
+/* Alexa connect status */
+"Not Connected" = "غير متصل بالشبكة";
+
+/* Alert action */
+"OK" = "OK";
+
+/* Alert action */
+"Okay" = "موافق";
+
+/* Alert title */
+"Oops!" = "عفوا!";
+
+/* Alert action */
+"Open Help" = "Open Help";
+
+/* Alert action */
+"Open link" = "Open link";
+
+/* Accessibility label to Pause playback */
+"Pause" = "Pause";
+
+/* Contact picker section */
+"People" = "People";
+
+/* Alert text */
+"Permission to access your Contacts list must be granted via Settings->Roger." = "للوصول إلى جهات الاتصال الخاصة بك يجب أن تكون القائمة ممنوحة عن طريق إعدادات-> Roger.";
+
+/* Alert text */
+"Permission to enable location for Weather must be granted via Settings->Roger." = "Permission to enable location for Weather must be granted via Settings->Roger.";
+
+/* Alert text */
+"Permission to enable location for weather must be granted via Settings->Roger." = "تمكين الموقع لحالة الطقس يجب أن يمنح عن طريق إعدادات-> Roger.";
+
+/* Alert text */
+"Please check your phone number and internet connection." = "الرجاء التحقق من رقم الهاتف و الإتصال بالشبكة.";
+
+/* Email support alert message */
+"Please note that Roger Support is done by volunteers. We try to respond as quickly as possible, but it may take a while.
+
+Please look at the Roger Help section: It has important troubleshooting tips and answers to most questions." = "Please note that Roger Support is done by volunteers. We try to respond as quickly as possible, but it may take a while.
+
+Please look at the Roger Help section: It has important troubleshooting tips and answers to most questions.";
+
+/* Stream card raise hint */
+"Raise to listen privately" = "Raise to listen privately";
+
+/* Contact picker section */
+"Recents" = "Recents";
+
+/* Sheet action */
+"Remove from Conversation" = "Remove from Conversation";
+
+/* Alert action
+   Sheet action */
+"Report & Block" = "Report & Block";
+
+/* Text for block user confirmation dialog */
+"Report & Block %@?" = "Report & Block %@?";
+
+/* Alert title */
+"Roger Version" = "إصدار Roger";
+
+/* Contacts permission supercell action */
+"SETTINGS" = "إعدادات";
+
+/* Contact picker section
+   Contact picker title */
+"Search" = "Search";
+
+/* Selected people preview bar */
+"Selected People Bar" = "Selected People Bar";
+
+/* Selected contacts bar accessibility intro */
+"Selected people are" = "Selected people are";
+
+/* Contact picker services section */
+"Services" = "Services";
+
+/* Sheet action */
+"Set Conversation Photo" = "تعيين صورة المحادثة";
+
+/* Sheet action */
+"Set Conversation Title" = "Set Conversation Title";
+
+/* Voicemail alert title */
+"Set Up Voicemail" = "إعداد البريد الصوتي";
+
+/* Voicemail microphone tooltip */
+"Set a greeting" = "تعيين رسالة ترحيب";
+
+/* Settings add name placeholder text */
+"Set name" = "تعيين الإسم";
+
+/* Voicemail instructions button; not configured */
+"Set up" = "إعدادات";
+
+/* Share bot action */
+"Share %@" = "Share %@";
+
+/* Add member option */
+"Share Conversation Link" = "Share Conversation Link";
+
+/* Sheet action */
+"Share Profile" = "Share Profile";
+
+/* Sheet action */
+"Share This Profile" = "مشاركة هذا الحساب";
+
+/* Alert action */
+"Share new" = "Share new";
+
+/* Bubble above share sheet after SMS cancelled */
+"Share voice link" = "مشاركة رابط التسجيل";
+
+/* Alert title */
+"Shared Link" = "Shared Link";
+
+/* Quick Invite option */
+"Skip %@" = "Skip %@";
+
+/* Name fallback
+   Notification default sender name
+   Text to show if we don't know the name of a person. */
+"Someone" = "شخص ما";
+
+/* Alert text */
+"Something went wrong on our side. Sorry about that!" = "حدث خطأ. عذرًا لذلك!";
+
+/* Alert text */
+"Something went wrong. Please try again!" = "حدث خطأ ما. الرجاء المحاولة مرة أخرى!";
+
+/* Alert text */
+"Sorry, that handle is unavailable." = "عذراً، إسم المستخدم غير متوفر.";
+
+/* Alert text */
+"Sorry, that person could not be added.
+
+The error we got was: %@" = "عذراً، تعذر إضافة ذلك الشخص.
+للسبب التالي: %@";
+
+/* Voicemail instructions; not supported */
+"Sorry, we don't currently
+support your operator." = "عذراً، نحن لا ندعم حاليا المشغل الخاص بك.";
+
+/* Accessibility hint; value is a relative time (Spoke <an hour ago>) */
+"Spoke %@" = "%@ تحدث";
+
+/* Sheet action */
+"Start New Conversation" = "Start New Conversation";
+
+/* VoiceOver hint for Add cell */
+"Start a new conversation" = "Start a new conversation";
+
+/* Tutorial popup text */
+"Start individual or group conversations with your friends." = "بدء محادثات فردية أو جماعية مع أصدقائك.";
+
+/* Accessibility hint, microphone */
+"Starts recording, double tap again when done." = "بدأ تسجيل، اضغط مرتين عند الانتهاء.";
+
+/* Verify phone number */
+"Still no code? Get it via phone call instead." = "لم تحصل على الرمز؟ الحصول عليه عن طريق مكالمة هاتفية بدلاً من ذلك.";
+
+/* Accessibility label to Stop playback */
+"Stop" = "وقف";
+
+/* Alert title */
+"Support" = "Support";
+
+/* Confirm switching accounts action */
+"Switch" = "تغيير";
+
+/* Sheet action */
+"Take New Photo" = "التقاط صورة جديدة";
+
+/* Alert action */
+"Take Photo" = "Take Photo";
+
+/* Voicemail instructions; already configured */
+"Talk here to set a greeting.
+Press the button below for options." = "تعيين رسالة ترحيب.
+ اضغط على الزر أدناه للحصول على خيارات.";
+
+/* 3D Touch shortcut */
+"Talk to %@" = "التحدث إلى %@";
+
+/* Share bot call to action */
+"Talk to share your voice" = "Talk to share your voice";
+
+/* Share bot description */
+"Talk to share your voice
+outside of Roger" = "Talk to share your voice
+outside of Roger";
+
+/* Share text for someone else's profile. */
+"Talk with %@ on Roger! %@" = "تحدث مع %1$@ على روجر! %2$@";
+
+/* Share text for someone else's profile (Twitter). */
+"Talk with %@ on Roger! %@ #TalkMore" = "تحدث مع %1$@ على روجر! %2$@ Talkmore#";
+
+/* Invite SMS */
+"Talk with me on Roger!" = "Talk with me on Roger!";
+
+/* Share text for own profile.
+   Text for inviting a friend. */
+"Talk with me on Roger! %@" = "تحدث معي على !Roger %@";
+
+/* Share text for own profile (Twitter). */
+"Talk with me on Roger! %@ #TalkMore" = "تحدث معي على روجر! %@ Talkmore#";
+
+/* Share bot share sheet description */
+"Talking on Roger! Listen here: %@ #TalkMore" = "Talking on Roger! Listen here: %@ #TalkMore";
+
+/* Info shown while recording */
+"Talking to %@..." = "يتحدث إلى %@...";
+
+/* Info shown while recording */
+"Talking..." = "يتحدث...";
+
+/* AutoPlay status indicator */
+"Tap for Walkie-Talkie mode" = "Tap for Walkie-Talkie mode";
+
+/* Stream card listen hint */
+"Tap or raise to listen" = "Tap or raise to listen";
+
+/* Tooltip */
+"Tap to finish talking" = "اضغط لإنهاء الحديث";
+
+/* Stream card listen hint */
+"Tap to listen" = "اضغط للاستماع";
+
+/* Group Primer label
+   Stream primer */
+"Team" = "Team";
+
+/* Browser title */
+"Terms of Service" = "شروط الخدمة";
+
+/* Stream transcription alert title */
+"Text Preview" = "Text Preview";
+
+/* Alert text */
+"That doesn't look like a phone number." = "لا يبدو أنه رقم هاتف.";
+
+/* Alert text */
+"That doesn't look like an e-mail." = "لا يبدو أنه بريد إلكتروني.";
+
+/* Alert text */
+"That doesn't look like the code we sent." = "لا يبدو أنه الرمز الذي أرسلناه لك.";
+
+/* Alert text */
+"That doesn't look like your name." = "لا يبدو أنه اسمك.";
+
+/* Alert text */
+"The account you logged in with is not active." = "الحساب الذي قمت بتسجيل الدخول به غير مفعل.";
+
+/* Alert text */
+"This is exciting, we know. But please wait until the timer runs out before trying the phone call option." = "هذا مثير، الرجاء الانتظار حتى ينفد التوقيت قبل إختيار مكالمة هاتفية.";
+
+/* Voicemail alert text; first value is a number, second value is the setup message */
+"To disable voicemail, dial this number:
+
+%@
+
+%@" = "لإيقاف البريد الصوتي، اتصل برقم الهاتف هذا:
+
+%1$@
+
+%2$@";
+
+/* Voicemail alert text; value is a number */
+"To set up voicemail again, dial this phone number:
+
+%@" = "لإعداد البريد الصوتي مرة أخرى، اتصل برقم الهاتف هذا:
+
+%@";
+
+/* Alert action */
+"Try again" = "حاول مرة أخرى";
+
+/* Sheet action */
+"Turn off Autoplay" = "إيقاف تشغيل القراءة التلقائية";
+
+/* Sheet action */
+"Turn on Autoplay" = "تشغيل القراءة التلقائية";
+
+/* Alert text */
+"Turn on notifications to get notified when your friends talk to you!" = "قم بتشغيل الإشعارات للحصول على إعلام عندما يتحدث معك أصدقائك!";
+
+/* Alert title */
+"Uh oh!" = "آه أوه!";
+
+/* Sheet action */
+"Unmute Notifications" = "Unmute Notifications";
+
+/* Roger access code alert title */
+"Use this access code to connect to services in Roger" = "Use this access code to connect to services in Roger";
+
+/* Voicemail instructions title */
+"Voicemail in Roger" = "البريد الصوتي على Roger";
+
+/* Stream Details waiting view */
+"Waiting for members to join" = "Waiting for members to join";
+
+/* AutoPlay status indicator */
+"Walkie-Talkie on" = "Walkie-Talkie on";
+
+/* Alert text */
+"We failed to change your photo at this time." = "فشلنا في تغيير الصورة الخاصة بك في هذا الوقت.";
+
+/* Alert text */
+"We failed to set your handle at this time." = "فشلنا في تعيين الإسم الخاص بك في هذا الوقت.";
+
+/* Alert text */
+"We failed to set your name at this time." = "فشلنا في تعيين الإسم الخاص بك في هذا الوقت.";
+
+/* Alert text */
+"We failed to validate your code at this time." = "فشلنا في التحقق من صحة الرمز في هذا الوقت.";
+
+/* E-mail/phone verification step */
+"We sent you a code
+at %@." = "لقد قمنا بإرسال الرمز
+على %@.";
+
+/* Verify e-mail */
+"What's your email?" = "ما هو البريد الإلكتروني الخاص بك؟";
+
+/* Verify phone number */
+"What's your number?" = "ما هو رقم هاتفك؟";
+
+/* Alert action */
+"Yes" = "Yes";
+
+/* Network connectivity bar */
+"You can still talk while offline" = "يمكنك التحدث دون اتصال بالشبكة";
+
+/* Roger access code alert message */
+"You can use this code to access your account on the web.
+
+%@" = "You can use this code to access your account on the web.
+
+%@";
+
+/* Alert text */
+"You must enter a valid code." = "يجب إدخال رمز صالح.";
+
+/* Accessibility hint; value is a relative time (You spoke <an hour ago>) */
+"You spoke %@" = "تكلمت %@";
+
+/* Verify phone number */
+"You'll get a phone call momentarily." = "سيتم الإتصال بك بعد قليل.";
+
+/* Bubble above top talker share sheet */
+"You're a Top Talker!" = "أنت أعلى متكلم!";
+
+/* Alert text */
+"Your Contacts list has been restricted." = "قيدت قائمة جهات الاتصال الخاصة بك.";
+
+/* Verify phone number */
+"Your code should arrive soon." = "ستتوصل بالرمز قريبا.";
+
+/* Verify phone number */
+"Your code should arrive within %@" = "ستتوصل بالرمز خلال %@";
+
+/* Stream Details waiting view */
+"Your conversation is empty, add members!" = "Your conversation is empty, add members!";
+
+/* Bubble above share sheet after SMS cancelled */
+"Your friend can listen with it." = "يمكن لصديقك الاستماع معها.";
+
+/* Share handle label */
+"Your handle is: @%@" = "Your handle is: @%@";
+
+/* Time status */
+"a few hours ago" = "قبل ساعات قليلة";
+
+/* Time status */
+"a few minutes ago" = "قبل دقائق قليلة";
+
+/* Time status */
+"a minute ago" = "دقيقة قبل";
+
+/* Time status */
+"about an hour ago" = "حوالي ساعة قبل";
+
+/* Time status; value is a time */
+"at %@" = "في %@";
+
+/* Weather */
+"clear" = "واضح";
+
+/* Weather */
+"cloudy" = "غائم";
+
+/* Weather */
+"fog" = "ضباب";
+
+/* Time status */
+"half an hour ago" = "قبل نصف ساعة";
+
+/* Stream status */
+"hasn't listened yet" = "لم يستمع بعد";
+
+/* Time status */
+"just now" = "الآن فقط";
+
+/* Time status */
+"last night" = "ليلة أمس";
+
+/* Attachment type */
+"link" = "link";
+
+/* Stream status */
+"listened %@" = "استمع %@";
+
+/* Stream status */
+"listening right now" = "يستمع الآن";
+
+/* Stream status */
+"nobody has listened yet" = "nobody has listened yet";
+
+/* Active contact description */
+"on Roger" = "on Roger";
+
+/* Weather */
+"partly cloudy" = "غائم جزئيا";
+
+/* Attachment type */
+"photo" = "photo";
+
+/* Weather */
+"rain" = "مطر";
+
+/* Weather */
+"sleet" = "مطر متجمد";
+
+/* Weather */
+"snow" = "الثلج";
+
+/* Participants notification default member name */
+"someone else" = "someone else";
+
+/* Stream status */
+"talked %@" = "%@ تحدث";
+
+/* Stream status */
+"talking right now" = "يتحدث الآن";
+
+/* Time status */
+"this morning" = "هذا الصباح";
+
+/* Time status; value is the hour */
+"today around %@" = "اليوم حوالي %@";
+
+/* Stream status */
+"unreachable" = "لا يمكن الوصول إليه";
+
+/* Stream status */
+"via %@" = "عبر %@";
+
+/* Weather */
+"wind" = "رياح";
+
+/* Time status */
+"yesterday around %@" = "أمس حوالي %@";
+
+/* Time status */
+"yesterday morning" = "صباح أمس";
+
+/* Stream default name */
+"your conversation" = "your conversation";
+
+/* Greeting; first value is local word for Hi, second value is name */
+"“%@ %@”" = "“%1$@ %2$@”";
+
+/* Alexa's call to action tooltip */
+"“What’s the weather?”" = "\"ما هي حالة الطقس؟\"";
+
+/* New stream notification */
+"🎉 %@ just started a conversation with you!" = "🎉 %@ just started a conversation with you!";
+
+/* Top talker Twitter share text */
+"🏆 Ranked #%d on @helloRoger top talkers this week! 🎉 %@ #TalkMore" = "🏆في المرتبة %1$d# على helloRoger@ أعلى المتكلمون هذا الأسبوع! 🎉 %2$@ TalkMore#";
+
+/* Bubble above top talker share sheet */
+"🏆 Ranked #%d on Roger’s top talkers this week!" = "🏆 في المرتبة #%d على Roger أكثر المتحدثين هذا الأسبوع!";
+
+/* Notification action */
+"👂 listen" = "👂 listen";
+
+/* Alert title */
+"😀 Notifications" = "الإشعارات 😀";
+
+/* Notification */
+"😳 Psst...%@ talked to you yesterday. Listen before it expires!" = "😳 Psst...%@ talked to you yesterday. Listen before it expires!";
+
+/* Participants notification body */
+"🙌 %@ added %@ to %@" = "🙌 %1$@ added %2$@ to %3$@";
+
+/* Participants notification body */
+"🙌 %@ joined %@" = "🙌 %1$@ joined %2$@";
+
+/* Participants notification body */
+"🙌 %@ joined your conversation" = "🙌 %@ joined your conversation";
+

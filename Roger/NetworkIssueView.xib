@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SFUIText-Regular.otf">
+            <string>SFUIText-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="NetworkIssueView" customModule="Roger" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="370" height="53"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Network issue" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DQR-6C-OVH">
+                    <fontDescription key="fontDescription" name="SFUIText-Regular" family="SF UI Text" pointSize="14"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" animating="YES" style="white" translatesAutoresizingMaskIntoConstraints="NO" id="T13-LL-HLU"/>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.90000000000000002" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="DQR-6C-OVH" secondAttribute="bottom" constant="8" id="Qih-T9-VNb"/>
+                <constraint firstItem="T13-LL-HLU" firstAttribute="centerY" secondItem="DQR-6C-OVH" secondAttribute="centerY" id="Yih-AD-PGT"/>
+                <constraint firstItem="DQR-6C-OVH" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="ixn-PH-tAM"/>
+                <constraint firstItem="DQR-6C-OVH" firstAttribute="leading" secondItem="T13-LL-HLU" secondAttribute="trailing" constant="8" id="rqM-ME-w0E"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="activityIndicator" destination="T13-LL-HLU" id="WVt-va-9TL"/>
+                <outlet property="statusLabel" destination="DQR-6C-OVH" id="5yr-It-0Hq"/>
+            </connections>
+            <point key="canvasLocation" x="234" y="386.5"/>
+        </view>
+    </objects>
+</document>

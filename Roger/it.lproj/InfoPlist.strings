@@ -1,0 +1,9 @@
+/* (No Commment) */
+"CFBundleDisplayName" = "Roger";
+
+/* (No Commment) */
+"CFBundleName" = "$(PRODUCT_NAME)";
+
+/* (No Commment) */
+"CFBundleShortVersionString" = "${ROGER_VERSION}";
+

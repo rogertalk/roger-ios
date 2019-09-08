@@ -1,0 +1,123 @@
+/* Class = "UILabel"; text = "Members"; ObjectID = "1T5-Hx-Sgu"; */
+"1T5-Hx-Sgu.text" = "Members";
+
+/* Class = "UIButton"; normalTitle = "textsms"; ObjectID = "2oS-AR-IHf"; */
+"2oS-AR-IHf.normalTitle" = "textsms";
+
+/* Class = "UILabel"; text = "New York"; ObjectID = "6yj-zW-0T4"; */
+"6yj-zW-0T4.text" = "New York";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "7nh-GL-yIG"; */
+"7nh-GL-yIG.text" = "Share";
+
+/* Class = "UIView"; accessibilityLabel = "Conversation Members"; ObjectID = "113-op-0Qa"; */
+"113-op-0Qa.accessibilityLabel" = "Conversation Members";
+
+/* Class = "UITextField"; text = "Loading..."; ObjectID = "A6a-bD-YT4"; */
+"A6a-bD-YT4.text" = "Caricamento...";
+
+/* Class = "UILabel"; text = "Tap to listen or raise\nto ear like a phone call"; ObjectID = "D5w-Wz-iue"; */
+"D5w-Wz-iue.text" = "Toccare o alzare al tuo orecchio come una chiamata di telefono";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "Gay-fT-uht"; */
+"Gay-fT-uht.text" = "A";
+
+/* Class = "UILabel"; text = "20° C"; ObjectID = "HHb-p2-CPA"; */
+"HHb-p2-CPA.text" = "20° C";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "Jxa-E3-Evc"; */
+"Jxa-E3-Evc.text" = "Next";
+
+/* Class = "UILabel"; text = "42"; ObjectID = "L59-Lv-Gc5"; */
+"L59-Lv-Gc5.text" = "42";
+
+/* Class = "UILabel"; text = "Play"; ObjectID = "Mi3-Hc-MoF"; */
+"Mi3-Hc-MoF.text" = "Play";
+
+/* Class = "UIButton"; accessibilityLabel = "Buzz"; ObjectID = "NW8-Ky-aa7"; */
+"NW8-Ky-aa7.accessibilityLabel" = "Buzz";
+
+/* Class = "UIButton"; normalTitle = "🐝"; ObjectID = "NW8-Ky-aa7"; */
+"NW8-Ky-aa7.normalTitle" = "🐝";
+
+/* Class = "UILabel"; text = "Show Weather"; ObjectID = "QFc-38-Pb5"; */
+"QFc-38-Pb5.text" = "Mostra il Meteo";
+
+/* Class = "UILabel"; text = "Previous"; ObjectID = "QkE-vo-9Bc"; */
+"QkE-vo-9Bc.text" = "Previous";
+
+/* Class = "UIButton"; accessibilityLabel = "rewind 5 seconds"; ObjectID = "afE-E5-cA3"; */
+"afE-E5-cA3.accessibilityLabel" = "rewind 5 seconds";
+
+/* Class = "UIButton"; normalTitle = "replay_5"; ObjectID = "afE-E5-cA3"; */
+"afE-E5-cA3.normalTitle" = "replay_5";
+
+/* Class = "UIButton"; accessibilityLabel = "Change playback rate"; ObjectID = "do4-QK-1Z3"; */
+"do4-QK-1Z3.accessibilityLabel" = "Change playback rate";
+
+/* Class = "UIButton"; normalTitle = "1.5x"; ObjectID = "do4-QK-1Z3"; */
+"do4-QK-1Z3.normalTitle" = "1.5x";
+
+/* Class = "UIButton"; accessibilityLabel = "skip backward"; ObjectID = "hKf-zx-wBu"; */
+"hKf-zx-wBu.accessibilityLabel" = "skip backward";
+
+/* Class = "UIButton"; normalTitle = "skip_previous"; ObjectID = "hKf-zx-wBu"; */
+"hKf-zx-wBu.normalTitle" = "skip_previous";
+
+/* Class = "UIView"; accessibilityHint = "Raise to ear to listen or double tap to play from loudspeaker"; ObjectID = "hbd-2c-x6b"; */
+"hbd-2c-x6b.accessibilityHint" = "Avvicina il tuo telefono al tuo orecchio per ascoltare o tocca due volte per ascoltare direttamente dall'altoparlante";
+
+/* Class = "UIView"; accessibilityLabel = "Listen"; ObjectID = "hbd-2c-x6b"; */
+"hbd-2c-x6b.accessibilityLabel" = "Ascolta";
+
+/* Class = "UILabel"; text = "group_add"; ObjectID = "iI6-ae-WrR"; */
+"iI6-ae-WrR.text" = "group_add";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "kWe-Rc-T0B"; */
+"kWe-Rc-T0B.text" = "Loading...";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "ka9-RS-Jr4"; */
+"ka9-RS-Jr4.text" = "Speed";
+
+/* Class = "UILabel"; text = "Replay 5s"; ObjectID = "mE1-JI-fSO"; */
+"mE1-JI-fSO.text" = "Replay 5s";
+
+/* Class = "UIButton"; accessibilityLabel = "Play"; ObjectID = "mE5-bm-hwv"; */
+"mE5-bm-hwv.accessibilityLabel" = "Play";
+
+/* Class = "UIButton"; normalTitle = "play_arrow"; ObjectID = "mE5-bm-hwv"; */
+"mE5-bm-hwv.normalTitle" = "play_arrow";
+
+/* Class = "UILabel"; text = "Buzz"; ObjectID = "oEI-ol-Dsy"; */
+"oEI-ol-Dsy.text" = "Buzz";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "vZA-mq-ZBz"; */
+"vZA-mq-ZBz.text" = "...";
+
+/* Class = "UILabel"; text = "9:00 ᴀᴍ"; ObjectID = "xdr-tB-0c6"; */
+"xdr-tB-0c6.text" = "9:00 ᴀᴍ";
+
+/* Class = "UIButton"; accessibilityLabel = "skip forward"; ObjectID = "yKH-jr-OCo"; */
+"yKH-jr-OCo.accessibilityLabel" = "skip forward";
+
+/* Class = "UIButton"; normalTitle = "skip_next"; ObjectID = "yKH-jr-OCo"; */
+"yKH-jr-OCo.normalTitle" = "skip_next";
+
+/* Class = "UILabel"; text = "🎉"; ObjectID = "ycK-rf-LLP"; */
+"ycK-rf-LLP.text" = "🎉";
+
+/* Class = "UIButton"; accessibilityLabel = "Add Members"; ObjectID = "yzw-bZ-agi"; */
+"yzw-bZ-agi.accessibilityLabel" = "Add Members";
+
+/* Class = "UIButton"; normalTitle = "ADD MEMBERS"; ObjectID = "yzw-bZ-agi"; */
+"yzw-bZ-agi.normalTitle" = "ADD MEMBERS";
+
+/* Class = "UIButton"; accessibilityHint = "Attach an image or a URL link to the conversation."; ObjectID = "z5I-fi-YJl"; */
+"z5I-fi-YJl.accessibilityHint" = "Attach an image or a URL link to the conversation.";
+
+/* Class = "UIButton"; accessibilityLabel = "Attach item"; ObjectID = "z5I-fi-YJl"; */
+"z5I-fi-YJl.accessibilityLabel" = "Attach item";
+
+/* Class = "UIButton"; normalTitle = "attach_file"; ObjectID = "z5I-fi-YJl"; */
+"z5I-fi-YJl.normalTitle" = "attach_file";
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AC679CD2-6508-4CD6-B1BB-97D1CCB82E71</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Roger</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05E62A0463529B38B28585F688CEE74B89A74F37</key>
+		<string>github.com:rogertalk/roger-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Roger.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05E62A0463529B38B28585F688CEE74B89A74F37</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:rogertalk/roger-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05E62A0463529B38B28585F688CEE74B89A74F37</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05E62A0463529B38B28585F688CEE74B89A74F37</string>
+			<key>IDESourceControlWCCName</key>
+			<string>roger-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

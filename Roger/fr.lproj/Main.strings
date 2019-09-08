@@ -1,0 +1,478 @@
+/* Class = "UILabel"; text = "What's your name?"; ObjectID = "0CT-bZ-Aen"; */
+"0CT-bZ-Aen.text" = "Quel est votre nom ?";
+
+/* Class = "UIButton"; accessibilityLabel = "Back"; ObjectID = "0eK-jK-yEm"; */
+"0eK-jK-yEm.accessibilityLabel" = "Retour";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "0eK-jK-yEm"; */
+"0eK-jK-yEm.normalTitle" = "";
+
+/* Class = "UILabel"; text = "add"; ObjectID = "0ns-PE-kNa"; */
+"0ns-PE-kNa.text" = "add";
+
+/* Class = "UIButton"; normalTitle = "INVITE FRIENDS"; ObjectID = "2Xk-51-P0j"; */
+"2Xk-51-P0j.normalTitle" = "INVITER DES AMIS";
+
+/* Class = "UILabel"; accessibilityHint = "Tap to enter group creation mode."; ObjectID = "2qf-tT-SSa"; */
+"2qf-tT-SSa.accessibilityHint" = "Passer en mode de création de groupe.";
+
+/* Class = "UILabel"; text = "Invite a friend to talk"; ObjectID = "2qf-tT-SSa"; */
+"2qf-tT-SSa.text" = "Inviter un ami pour parler";
+
+/* Class = "UILabel"; text = "Tap and say \"Hello\""; ObjectID = "2un-nr-RMJ"; */
+"2un-nr-RMJ.text" = "Tap and say \"Hello\"";
+
+/* Class = "UILabel"; text = "A free voice messenger for friends, families, and teams who miss talking."; ObjectID = "3HD-lm-pNn"; */
+"3HD-lm-pNn.text" = "A free voice messenger for friends, families, and teams who miss talking.";
+
+/* Class = "UILabel"; text = "How's the weather?"; ObjectID = "3xg-3y-xE8"; */
+"3xg-3y-xE8.text" = "Quel temps fait-il ?";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "6L8-Wy-Rb9"; */
+"6L8-Wy-Rb9.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Blixt,"; ObjectID = "6Oe-Jd-CyO"; */
+"6Oe-Jd-CyO.text" = "Blixt,";
+
+/* Class = "UILabel"; text = ""; ObjectID = "6oA-O3-cXs"; */
+"6oA-O3-cXs.text" = "";
+
+/* Class = "UILabel"; text = "add"; ObjectID = "6vs-UQ-Xeh"; */
+"6vs-UQ-Xeh.text" = "add";
+
+/* Class = "UIButton"; normalTitle = "THAT'S ME"; ObjectID = "7Hz-gy-DgP"; */
+"7Hz-gy-DgP.normalTitle" = "C'EST MOI";
+
+/* Class = "UIButton"; accessibilityHint = "Double tap to copy version to clipboard"; ObjectID = "7PR-ZK-F6K"; */
+"7PR-ZK-F6K.accessibilityHint" = "Tapez deux fois pour copier la version dans le presse-papiers";
+
+/* Class = "UIButton"; normalTitle = "Roger vX.Y.Z (00000000)"; ObjectID = "7PR-ZK-F6K"; */
+"7PR-ZK-F6K.normalTitle" = "Roger vX.Y.Z (00000000)";
+
+/* Class = "UILabel"; text = "IFTTT"; ObjectID = "7UV-N5-B1w"; */
+"7UV-N5-B1w.text" = "IFTTT";
+
+/* Class = "UIButton"; normalTitle = "CALL ME INSTEAD"; ObjectID = "7f9-tC-efP"; */
+"7f9-tC-efP.normalTitle" = "APPELEZ-MOI";
+
+/* Class = "UIButton"; accessibilityLabel = "Back"; ObjectID = "7gL-OU-LNJ"; */
+"7gL-OU-LNJ.accessibilityLabel" = "Back";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "7gL-OU-LNJ"; */
+"7gL-OU-LNJ.normalTitle" = "";
+
+/* Class = "UILabel"; text = "add"; ObjectID = "8VB-mE-e3t"; */
+"8VB-mE-e3t.text" = "add";
+
+/* Class = "UILabel"; text = "Show Weather"; ObjectID = "9R9-AH-fwr"; */
+"9R9-AH-fwr.text" = "Afficher la Météo";
+
+/* Class = "UILabel"; text = "Use IFTTT to post to Slack."; ObjectID = "76l-Ki-tlp"; */
+"76l-Ki-tlp.text" = "Use IFTTT to post to Slack.";
+
+/* Class = "UILabel"; text = "Sent! 🚀"; ObjectID = "79L-wl-8au"; */
+"79L-wl-8au.text" = "Sent! 🚀";
+
+/* Class = "UIButton"; normalTitle = "ACCESS"; ObjectID = "94r-ER-zfl"; */
+"94r-ER-zfl.normalTitle" = "AUTORISER";
+
+/* Class = "UILabel"; text = "Connect accounts"; ObjectID = "844-Kj-yh7"; */
+"844-Kj-yh7.text" = "Connecter les comptes";
+
+/* Class = "UIButton"; normalTitle = "CREATE GROUP"; ObjectID = "ADY-Ye-Oic"; */
+"ADY-Ye-Oic.normalTitle" = "CRÉER GROUPE";
+
+/* Class = "UILabel"; text = "Say Hello"; ObjectID = "AoQ-9s-W6E"; */
+"AoQ-9s-W6E.text" = "Say Hello";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "BDe-IO-lop"; */
+"BDe-IO-lop.normalTitle" = "";
+
+/* Class = "UILabel"; text = "keyboard_arrow_down"; ObjectID = "BSw-GV-STo"; */
+"BSw-GV-STo.text" = "keyboard_arrow_down";
+
+/* Class = "UILabel"; text = "keyboard_arrow_right"; ObjectID = "CVm-QK-1cf"; */
+"CVm-QK-1cf.text" = "keyboard_arrow_right";
+
+/* Class = "UILabel"; text = "Make it easy for friends to find you."; ObjectID = "DyU-b0-pUw"; */
+"DyU-b0-pUw.text" = "C'est plus facile pour vos amis de vous trouver.";
+
+/* Class = "UILabel"; text = "Address Book"; ObjectID = "E1M-EO-uOA"; */
+"E1M-EO-uOA.text" = "Address Book";
+
+/* Class = "UILabel"; text = "people"; ObjectID = "EJf-4M-j5s"; */
+"EJf-4M-j5s.text" = "people";
+
+/* Class = "UIButton"; normalTitle = "Later"; ObjectID = "ERQ-Dc-0Xn"; */
+"ERQ-Dc-0Xn.normalTitle" = "Plus tard";
+
+/* Class = "UILabel"; text = "Want more friends on Roger?"; ObjectID = "EXn-EA-6AF"; */
+"EXn-EA-6AF.text" = "Vous voulez plus d'amis sur Roger ?";
+
+/* Class = "UILabel"; text = "arrow_forward"; ObjectID = "Eyn-Lo-3rY"; */
+"Eyn-Lo-3rY.text" = "arrow_forward";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "FAZ-yS-uuI"; */
+"FAZ-yS-uuI.normalTitle" = "";
+
+/* Class = "UILabel"; text = "keyboard_arrow_right"; ObjectID = "FKu-ri-RDw"; */
+"FKu-ri-RDw.text" = "keyboard_arrow_right";
+
+/* Class = "UIView"; accessibilityLabel = "Photo"; ObjectID = "FPZ-Am-L5X"; */
+"FPZ-Am-L5X.accessibilityLabel" = "Photo";
+
+/* Class = "UIButton"; accessibilityLabel = "Rate us on the App Store"; ObjectID = "FTT-hC-86s"; */
+"FTT-hC-86s.accessibilityLabel" = "Évaluez nous sur l'App Store";
+
+/* Class = "UIButton"; normalTitle = "Rate us on the App Store"; ObjectID = "FTT-hC-86s"; */
+"FTT-hC-86s.normalTitle" = "Rate us on the App Store";
+
+/* Class = "UILabel"; text = "Welcome to Roger"; ObjectID = "FW6-NH-cNH"; */
+"FW6-NH-cNH.text" = "Welcome to Roger";
+
+/* Class = "UIButton"; normalTitle = "GET STARTED"; ObjectID = "FdB-dA-H9m"; */
+"FdB-dA-H9m.normalTitle" = "GET STARTED";
+
+/* Class = "UIButton"; accessibilityLabel = "E-mail us at hello@rogertalk.com"; ObjectID = "GQm-yK-b3u"; */
+"GQm-yK-b3u.accessibilityLabel" = "Envoyez-nous un email à hello@rogertalk.com";
+
+/* Class = "UIButton"; normalTitle = "Email us"; ObjectID = "GQm-yK-b3u"; */
+"GQm-yK-b3u.normalTitle" = "Email us";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "GxQ-hg-jid"; */
+"GxQ-hg-jid.text" = "2";
+
+/* Class = "UILabel"; text = "Share your profile:"; ObjectID = "HGD-tM-HAh"; */
+"HGD-tM-HAh.text" = "Share your profile:";
+
+/* Class = "UILabel"; text = "10K Members"; ObjectID = "LNN-rg-qOs"; */
+"LNN-rg-qOs.text" = "10K Members";
+
+/* Class = "UILabel"; text = "HANDLE"; ObjectID = "LSW-gd-2tW"; */
+"LSW-gd-2tW.text" = "NOM D'UTILISATEUR";
+
+/* Class = "UILabel"; text = "Select new members"; ObjectID = "LuR-80-8aH"; */
+"LuR-80-8aH.text" = "Sélectionnez les nouveaux membres";
+
+/* Class = "UILabel"; text = "PERMISSIONS"; ObjectID = "M3B-hV-i74"; */
+"M3B-hV-i74.text" = "AUTORISATIONS";
+
+/* Class = "UITextField"; placeholder = "Roger Smith"; ObjectID = "M07-P0-cze"; */
+"M07-P0-cze.placeholder" = "Roger Coulon";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "MO4-S8-MbC"; */
+"MO4-S8-MbC.normalTitle" = "close";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM NUMBER"; ObjectID = "MvX-Vw-2Vj"; */
+"MvX-Vw-2Vj.normalTitle" = "CONFIRMER LE NUMÉRO";
+
+/* Class = "UIButton"; accessibilityLabel = "Talk with us"; ObjectID = "N6d-g6-VaG"; */
+"N6d-g6-VaG.accessibilityLabel" = "Parlez avec la Team Roger";
+
+/* Class = "UIButton"; normalTitle = "Leave us a voice note"; ObjectID = "N6d-g6-VaG"; */
+"N6d-g6-VaG.normalTitle" = "Leave us a voice note";
+
+/* Class = "UILabel"; text = "Conversation"; ObjectID = "NDv-Az-qd4"; */
+"NDv-Az-qd4.text" = "Conversation";
+
+/* Class = "UIView"; accessibilityLabel = "Photo"; ObjectID = "Nay-LN-tCS"; */
+"Nay-LN-tCS.accessibilityLabel" = "Photo";
+
+/* Class = "UILabel"; text = "New Conversation"; ObjectID = "NrH-iR-37t"; */
+"NrH-iR-37t.text" = "New Conversation";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Pd8-NH-NMi"; */
+"Pd8-NH-NMi.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "done_all"; ObjectID = "Ptc-KM-MbM"; */
+"Ptc-KM-MbM.text" = "done_all";
+
+/* Class = "UITextField"; text = "Ricardo Vice Santos"; ObjectID = "QFu-ld-Dmf"; */
+"QFu-ld-Dmf.text" = "Ricardo Vice Santos";
+
+/* Class = "UILabel"; text = "(646) 555-1234"; ObjectID = "Qvn-WF-P3z"; */
+"Qvn-WF-P3z.text" = "(646) 555-1234";
+
+/* Class = "UILabel"; text = "Convos"; ObjectID = "R1d-ED-XKg"; */
+"R1d-ED-XKg.text" = "Convos";
+
+/* Class = "UILabel"; text = "error"; ObjectID = "RVg-bf-IF5"; */
+"RVg-bf-IF5.text" = "error";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "RX1-F2-G7x"; */
+"RX1-F2-G7x.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Access Contacts"; ObjectID = "Rbf-m6-dcK"; */
+"Rbf-m6-dcK.text" = "Accès Contacts";
+
+/* Class = "UILabel"; text = "Friends can reach you via rogertalk.com/handle"; ObjectID = "SAc-vZ-hV3"; */
+"SAc-vZ-hV3.text" = "Friends can reach you via rogertalk.com/handle";
+
+/* Class = "UIButton"; accessibilityLabel = "E-mail us"; ObjectID = "SoB-p1-SL6"; */
+"SoB-p1-SL6.accessibilityLabel" = "E-mail us";
+
+/* Class = "UIButton"; normalTitle = "Frequently Asked Questions"; ObjectID = "SoB-p1-SL6"; */
+"SoB-p1-SL6.normalTitle" = "Frequently Asked Questions";
+
+/* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "Spt-Pr-IrB"; */
+"Spt-Pr-IrB.normalTitle" = "SHARE";
+
+/* Class = "UILabel"; text = "Tap or raise to listen"; ObjectID = "TLJ-3i-23F"; */
+"TLJ-3i-23F.text" = "Tap or raise to listen";
+
+/* Class = "UIButton"; normalTitle = "done"; ObjectID = "Tbm-TF-SUQ"; */
+"Tbm-TF-SUQ.normalTitle" = "done";
+
+/* Class = "UILabel"; text = "Name this group"; ObjectID = "Tcj-76-E5G"; */
+"Tcj-76-E5G.text" = "Nommez ce groupe";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "TiT-Do-7M6"; */
+"TiT-Do-7M6.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "(Don't worry! Your details won't be shared)"; ObjectID = "Tqm-6l-3HL"; */
+"Tqm-6l-3HL.text" = "(Ne vous inquiétez pas ! Vos coordonnées ne seront pas être partagées)";
+
+/* Class = "UILabel"; text = "keyboard_arrow_right"; ObjectID = "U0j-y8-Fal"; */
+"U0j-y8-Fal.text" = "keyboard_arrow_right";
+
+/* Class = "UILabel"; text = "Family"; ObjectID = "UId-0M-XRh"; */
+"UId-0M-XRh.text" = "Family";
+
+/* Class = "UIButton"; accessibilityLabel = "Settings"; ObjectID = "ULp-iw-WY5"; */
+"ULp-iw-WY5.accessibilityLabel" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "settings"; ObjectID = "ULp-iw-WY5"; */
+"ULp-iw-WY5.normalTitle" = "settings";
+
+/* Class = "UIButton"; normalTitle = "Share your profile"; ObjectID = "WHx-Ab-BLF"; */
+"WHx-Ab-BLF.normalTitle" = "Partagez votre profil";
+
+/* Class = "UILabel"; text = "Luke"; ObjectID = "Wt1-j4-Jro"; */
+"Wt1-j4-Jro.text" = "Luke";
+
+/* Class = "UIButton"; accessibilityLabel = "Back"; ObjectID = "XD1-pX-Wj9"; */
+"XD1-pX-Wj9.accessibilityLabel" = "Back";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "XD1-pX-Wj9"; */
+"XD1-pX-Wj9.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Play incoming conversations out loud."; ObjectID = "XH4-oS-J3k"; */
+"XH4-oS-J3k.text" = "Play incoming conversations out loud.";
+
+/* Class = "UILabel"; text = "Adding accounts helps friends find you."; ObjectID = "Xwx-ac-ZxD"; */
+"Xwx-ac-ZxD.text" = "Ajouter des comptes, aide vos amis à vous retrouver.";
+
+/* Class = "UILabel"; text = "SERVICES"; ObjectID = "YFx-8a-A5u"; */
+"YFx-8a-A5u.text" = "SERVICES";
+
+/* Class = "UITextField"; accessibilityLabel = "Search People"; ObjectID = "YWF-v5-jMr"; */
+"YWF-v5-jMr.accessibilityLabel" = "Recherche de personnes";
+
+/* Class = "UITextField"; placeholder = "Name, Phone, or Handle"; ObjectID = "YWF-v5-jMr"; */
+"YWF-v5-jMr.placeholder" = "Nom, Téléphone ou Nom d'utilisateur";
+
+/* Class = "UIButton"; normalTitle = "ENABLE LOCATION"; ObjectID = "YkI-9d-WFL"; */
+"YkI-9d-WFL.normalTitle" = "ACTIVER LOCALISATION";
+
+/* Class = "UIButton"; normalTitle = "Sign up with email instead"; ObjectID = "ZCW-pa-N9R"; */
+"ZCW-pa-N9R.normalTitle" = "Inscrivez-vous par email à la place";
+
+/* Class = "UILabel"; text = "contacts"; ObjectID = "aYf-Fm-paQ"; */
+"aYf-Fm-paQ.text" = "contacts";
+
+/* Class = "UILabel"; text = "To guard against spam, please confirm you're a real person by verifying yourself."; ObjectID = "bAr-J3-FBc"; */
+"bAr-J3-FBc.text" = "Pour se prémunir contre le spam, confirmez que vous êtes une personne réelle.";
+
+/* Class = "UILabel"; text = "error"; ObjectID = "bUy-ln-TXS"; */
+"bUy-ln-TXS.text" = "error";
+
+/* Class = "UILabel"; text = "Talk"; ObjectID = "bth-wV-7Ar"; */
+"bth-wV-7Ar.text" = "Talk";
+
+/* Class = "UILabel"; text = "Broadcast"; ObjectID = "cPo-DQ-jwp"; */
+"cPo-DQ-jwp.text" = "Diffuser";
+
+/* Class = "UILabel"; text = "YOUR ACCOUNT"; ObjectID = "cuv-lD-KZH"; */
+"cuv-lD-KZH.text" = "VOTRE COMPTE";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "dB3-2y-hyx"; */
+"dB3-2y-hyx.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "info"; ObjectID = "dUf-UJ-5sn"; */
+"dUf-UJ-5sn.text" = "info";
+
+/* Class = "UILabel"; text = "keyboard_arrow_up"; ObjectID = "dc4-vv-YMZ"; */
+"dc4-vv-YMZ.text" = "keyboard_arrow_up";
+
+/* Class = "UILabel"; text = "Action"; ObjectID = "efJ-FH-ItI"; */
+"efJ-FH-ItI.text" = "Action";
+
+/* Class = "UILabel"; text = "Can't load page, please check your connection and try again."; ObjectID = "egA-Im-nLW"; */
+"egA-Im-nLW.text" = "Impossible de charger la page, merci de vérifier votre connexion et réessayez.";
+
+/* Class = "UILabel"; text = "Waiting for members to join"; ObjectID = "fDV-LS-juA"; */
+"fDV-LS-juA.text" = "Waiting for members to join";
+
+/* Class = "UILabel"; text = "and..."; ObjectID = "fIw-hI-I1E"; */
+"fIw-hI-I1E.text" = "et...";
+
+/* Class = "UILabel"; text = "Page Title"; ObjectID = "ffe-fm-TTw"; */
+"ffe-fm-TTw.text" = "Titre de la page";
+
+/* Class = "UIButton"; normalTitle = "Later >"; ObjectID = "fht-Gb-JH5"; */
+"fht-Gb-JH5.normalTitle" = "Later >";
+
+/* Class = "UILabel"; text = "ricardovice"; ObjectID = "foa-DD-UJ3"; */
+"foa-DD-UJ3.text" = "ricardovice";
+
+/* Class = "UILabel"; text = "Location, weather, and time for contacts."; ObjectID = "fya-Bl-QTy"; */
+"fya-Bl-QTy.text" = "Localisation, météo et horaire des contacts.";
+
+/* Class = "UITextField"; text = "+1 234 567 8910"; ObjectID = "gUG-Zt-7wI"; */
+"gUG-Zt-7wI.text" = "+1 234 567 8910";
+
+/* Class = "UILabel"; text = "What's your number?"; ObjectID = "gdU-4B-Q3p"; */
+"gdU-4B-Q3p.text" = "Quel est votre numéro ?";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "hRY-bS-LRM"; */
+"hRY-bS-LRM.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "Alexa"; ObjectID = "hhF-5D-05m"; */
+"hhF-5D-05m.text" = "Alexa";
+
+/* Class = "UILabel"; text = "search"; ObjectID = "hnJ-wJ-v1X"; */
+"hnJ-wJ-v1X.text" = "search";
+
+/* Class = "UILabel"; text = "Your code should arrive within 05:00"; ObjectID = "iqY-0m-NDS"; */
+"iqY-0m-NDS.text" = "Votre code devrait arriver dans 05:00";
+
+/* Class = "UIButton"; accessibilityLabel = "Conversations"; ObjectID = "khM-J9-r91"; */
+"khM-J9-r91.accessibilityLabel" = "Conversations";
+
+/* Class = "UIButton"; normalTitle = "forum"; ObjectID = "khM-J9-r91"; */
+"khM-J9-r91.normalTitle" = "forum";
+
+/* Class = "UILabel"; text = "LivePlay"; ObjectID = "l1w-o9-3nc"; */
+"l1w-o9-3nc.text" = "LivePlay";
+
+/* Class = "UIView"; accessibilityLabel = "Photo"; ObjectID = "l2A-q3-3zK"; */
+"l2A-q3-3zK.accessibilityLabel" = "Photo";
+
+/* Class = "UIButton"; accessibilityLabel = "Back"; ObjectID = "lMV-J2-RDL"; */
+"lMV-J2-RDL.accessibilityLabel" = "Back";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "lMV-J2-RDL"; */
+"lMV-J2-RDL.normalTitle" = "";
+
+/* Class = "UILabel"; text = "We sent you a code at 12345678910"; ObjectID = "lXk-mJ-XiC"; */
+"lXk-mJ-XiC.text" = "Nous vous avons envoyé le code au 12345678910";
+
+/* Class = "UITextField"; placeholder = "Add handle"; ObjectID = "lYM-Cd-23x"; */
+"lYM-Cd-23x.placeholder" = "Ajouter un nom d'utilisateur";
+
+/* Class = "UILabel"; text = "star"; ObjectID = "m0o-uu-Bqx"; */
+"m0o-uu-Bqx.text" = "star";
+
+/* Class = "UILabel"; text = "Find people to talk to in your contacts list."; ObjectID = "m6u-5k-UZc"; */
+"m6u-5k-UZc.text" = "Find people to talk to in your contacts list.";
+
+/* Class = "UILabel"; text = "Never miss conversations, even when you're not in the app."; ObjectID = "mEW-bv-R5Y"; */
+"mEW-bv-R5Y.text" = "Ne manquez jamais les conversations, même lorsque vous n'êtes pas sur l'application.";
+
+/* Class = "UILabel"; text = "person"; ObjectID = "nQG-zF-3nR"; */
+"nQG-zF-3nR.text" = "person";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "njI-Vu-7R1"; */
+"njI-Vu-7R1.text" = "Settings";
+
+/* Class = "UILabel"; text = "Talking..."; ObjectID = "o0G-7o-ZVR"; */
+"o0G-7o-ZVR.text" = "En train de parler...";
+
+/* Class = "UITextField"; placeholder = "Group Name"; ObjectID = "oDZ-i9-dQm"; */
+"oDZ-i9-dQm.placeholder" = "Group Name";
+
+/* Class = "UIButton"; normalTitle = "Options"; ObjectID = "ooA-h7-bbG"; */
+"ooA-h7-bbG.normalTitle" = "Options";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "pDN-yQ-dob"; */
+"pDN-yQ-dob.normalTitle" = "Done";
+
+/* Class = "UILabel"; accessibilityHint = "Double tap to enter group creation mode."; ObjectID = "pDo-tf-RaV"; */
+"pDo-tf-RaV.accessibilityHint" = "Double tap to enter group creation mode.";
+
+/* Class = "UILabel"; text = "Start group conversation"; ObjectID = "pDo-tf-RaV"; */
+"pDo-tf-RaV.text" = "Start group conversation";
+
+/* Class = "UISwitch"; accessibilityHint = "Whether to show location, weather, and time for contacts."; ObjectID = "pEe-24-BJ9"; */
+"pEe-24-BJ9.accessibilityHint" = "Vous indique la localisation, la météo et le temps de vos contacts.";
+
+/* Class = "UISwitch"; accessibilityLabel = "Toggle Show Weather"; ObjectID = "pEe-24-BJ9"; */
+"pEe-24-BJ9.accessibilityLabel" = "Activer/désactiver climat";
+
+/* Class = "UIButton"; accessibilityLabel = "Help"; ObjectID = "pMf-fu-rhB"; */
+"pMf-fu-rhB.accessibilityLabel" = "Aide";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "pMf-fu-rhB"; */
+"pMf-fu-rhB.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Connect"; ObjectID = "pwE-cz-d3A"; */
+"pwE-cz-d3A.text" = "Connect";
+
+/* Class = "UILabel"; text = "Beautiful, animated weather\npatterns for your conversations."; ObjectID = "qdD-hQ-VJT"; */
+"qdD-hQ-VJT.text" = "Vous indique la localisation, 
+la météo et le temps de vos contacts.";
+
+/* Class = "UILabel"; text = "FEEDBACK & HELP"; ObjectID = "raR-8G-u4d"; */
+"raR-8G-u4d.text" = "COMMENTAIRE & AIDE";
+
+/* Class = "UILabel"; text = "Share your voice separately. Try with at least 5 friends."; ObjectID = "rtz-S6-PWz"; */
+"rtz-S6-PWz.text" = "Partager votre voix séparément. Essayez au moins 5 amis.";
+
+/* Class = "UIButton"; normalTitle = "Turn on Notifications"; ObjectID = "sr4-0C-AMf"; */
+"sr4-0C-AMf.normalTitle" = "Activer les Notifications";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "t6m-cC-laS"; */
+"t6m-cC-laS.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Public Conversations"; ObjectID = "t7C-1y-rag"; */
+"t7C-1y-rag.text" = "Public Conversations";
+
+/* Class = "UISwitch"; accessibilityHint = "Autoplay incoming conversations."; ObjectID = "u8J-fc-iSr"; */
+"u8J-fc-iSr.accessibilityHint" = "Autoplay incoming conversations.";
+
+/* Class = "UISwitch"; accessibilityLabel = "Toggle Live playback"; ObjectID = "u8J-fc-iSr"; */
+"u8J-fc-iSr.accessibilityLabel" = "Toggle Live playback";
+
+/* Class = "UILabel"; text = "Twitter, Slack,..."; ObjectID = "uWw-ed-VjM"; */
+"uWw-ed-VjM.text" = "Twitter, Slack,...";
+
+/* Class = "UILabel"; text = "4:25 ᴀᴍ"; ObjectID = "vyA-jB-Br8"; */
+"vyA-jB-Br8.text" = "4:25 ᴀᴍ";
+
+/* Class = "UILabel"; text = "Post to a Slack channel"; ObjectID = "woa-ob-Ewb"; */
+"woa-ob-Ewb.text" = "Post to a Slack channel";
+
+/* Class = "UILabel"; text = "Speak close to the mic"; ObjectID = "xBp-Mj-5lc"; */
+"xBp-Mj-5lc.text" = "Parler prés du micro";
+
+/* Class = "UIButton"; normalTitle = "By continuing you agree to our Terms of Service"; ObjectID = "xiv-I9-1Pj"; */
+"xiv-I9-1Pj.normalTitle" = "En continuant, vous acceptez nos conditions d'utilisation";
+
+/* Class = "UIButton"; accessibilityLabel = "Back"; ObjectID = "y0c-E6-jSq"; */
+"y0c-E6-jSq.accessibilityLabel" = "Retour";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "y0c-E6-jSq"; */
+"y0c-E6-jSq.normalTitle" = "";
+
+/* Class = "UIButton"; accessibilityLabel = "Back"; ObjectID = "y93-WO-lEe"; */
+"y93-WO-lEe.accessibilityLabel" = "Retour";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "y93-WO-lEe"; */
+"y93-WO-lEe.normalTitle" = "";
+
+/* Class = "UILabel"; text = "people"; ObjectID = "zDa-tf-mHj"; */
+"zDa-tf-mHj.text" = "people";
+
+/* Class = "UILabel"; text = "(Don't forget to add a photo)"; ObjectID = "zbX-Cu-zWD"; */
+"zbX-Cu-zWD.text" = "(Don't forget to add a photo)";
+
